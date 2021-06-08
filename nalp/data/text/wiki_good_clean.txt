@@ -1,0 +1,899 @@
+Joseph Harold Greenberg (May 28, 1915 – May 7, 2001) was an American linguist, known mainly for his work concerning linguistic typology and the genetic classification of languages.
+At the age of 14, he gave a piano concert in Steinway Hall.
+He continued to play the piano frequently throughout his life.
+After finishing high school, he decided to pursue a scholarly career rather than a musical one.
+During his senior year, he attended a class taught by Franz Boas concerning American Indian languages.
+With references from Boas and Ruth Benedict, he was accepted as a graduate student by Melville J. Herskovits at Northwestern University in Chicago.
+During the course of his graduate studies, Greenberg did fieldwork among the Hausa people of Nigeria, where he learned the Hausa language.
+The subject of his doctoral dissertation was the influence of Islam on a Hausa group that, unlike most others, had not converted to it.
+During 1940, he began postdoctoral studies at Yale University.
+These were interrupted by service in the U.S. Army Signal Corps during World War II, for which he worked as a codebreaker and participated with the landing at Casablanca.
+Before leaving for Europe during 1943, Greenberg married Selma Berkowitz, whom he had met during his first year at Columbia University.
+While in New York, he became acquainted with Roman Jakobson and André Martinet.
+They introduced him to the Prague school of structuralism, which influenced his work.
+During 1962, Greenberg relocated to the anthropology department of Stanford University in California, where he continued to work for the rest of his life.
+During 1965 Greenberg served as president of the African Studies Association.
+He received during 1996 the highest award for a scholar in Linguistics, the Gold Medal of Philology.
+During the late 1950s, Greenberg began to examine languages covering a wide geographic and genetic distribution.
+He located a number of interesting potential universals as well as many strong cross-linguistic tendencies.
+In particular, Greenberg conceptualized the idea of "implicational universal", which has the form, "if a language has structure X, then it must also have structure Y."
+For example, X might be "mid front rounded vowels" and Y "high front rounded vowels" (for terminology see phonetics).
+Many scholars adopted this kind of research following Greenberg's example and it remains important in synchronic linguistics.
+Like Noam Chomsky, Greenberg sought to discover the universal structures on which human language is based.
+Unlike Chomsky, Greenberg's method was functionalist, rather than formalist.
+An argument to reconcile the Greenbergian and Chomskyan methods can be found in Linguistic Universals (2006), edited by Ricardo Mairal and Juana Gil .
+Many who are strongly opposed to Greenberg's methods of language classification (see below) acknowledge the importance of his typological work.
+During 1963 he published an article that was extremely influential: "Some universals of grammar with particular reference to the order of meaningful elements".
+He argued that genetic classification is methodologically prior to comparative reconstruction, or the first stage of it: one cannot engage in the comparative reconstruction of languages until one knows which languages to compare (1957:44).
+He also criticized the prevalent opinion that comprehensive comparisons of two languages at a time (which commonly take years to perform) could establish language families of any size.
+He argued that, even for 8 languages, there are already 4,140 ways to classify them into distinct families, while for 25 languages there are 4,749,027,089,305,918,018 ways (1957:44).
+For comparison, the Niger–Congo family is said to have some 1,500 languages.
+He thought language families of any size needed to be established by some scholastic means other than bilateral comparison.
+The theory of mass comparison is an attempt to demonstrate such means.
+Greenberg argued for the virtues of breadth over depth.
+He advocated restricting the amount of material to be compared (to basic vocabulary, morphology, and known paths of sound change) and increasing the number of languages to be compared to all the languages in a given area.
+This would make it possible to compare numerous languages reliably.
+At the same time, the process would provide a check on accidental resemblances through the sheer number of languages under review.
+The mathematical probability that resemblances are accidental decreases strongly with the number of languages concerned (1957:39).
+Greenberg used the premise that mass "borrowing" of basic vocabulary is unknown.
+He argued that borrowing, when it occurs, is concentrated in cultural vocabulary and clusters "in certain semantic areas", making it easy to detect (1957:39).
+With the goal of determining broad patterns of relationship, the idea was not to get every word right but to detect patterns.
+From the beginning with his theory of mass comparison, Greenberg addressed why chance resemblance and borrowing were not obstacles to its being useful.
+Despite that, critics consider those phenomena caused difficulties for his theory.
+Greenberg first termed his method "mass comparison" in an article of 1954 (reprinted in Greenberg 1955).
+As of 1987, he replaced the term "mass comparison" with "multilateral comparison", to emphasize its contrast with the bilateral comparisons recommended by linguistics textbooks.
+He believed that multilateral comparison was not in any way opposed to the comparative method, but is, on the contrary, its necessary first step (Greenberg, 1957:44).
+According to him, comparative reconstruction should have the status of an explanatory theory for facts already established by language classification (Greenberg, 1957:45).
+Most historical linguists (Campbell 2001:45) reject the use of mass comparison as a method for establishing genealogical relationships between languages.
+Among the most outspoken critics of mass comparison have been Lyle Campbell, Donald Ringe, William Poser, and the late R. Larry Trask.
+He revised the book and published it again during 1963, followed by a nearly identical edition of 1966 (reprinted without change during 1970).
+A few more changes of the classification were made by Greenberg in an article during 1981.
+Greenberg grouped the hundreds of African languages into four families, which he dubbed Afroasiatic, Nilo-Saharan, Niger–Congo, and Khoisan.
+During the course of his work, Greenberg invented the term "Afroasiatic" to replace the earlier term "Hamito-Semitic", after showing that the Hamitic group, accepted widely since the 19th century, is not a valid language family.
+Another major feature of his work was to establish the classification of the Bantu languages, which occupy much of sub-Saharan Africa, as a part of the Niger–Congo family, rather than as an independent family as many Bantuists had maintained.
+Greenberg's classification rested largely in evaluating competing earlier classifications.
+For a time, his classification was considered bold and speculative, especially the proposal of a Nilo-Saharan language family.
+Now, apart from Khoisan, it is generally accepted by African specialists and has been used as a basis for further work by other scholars.
+Greenberg's work on African languages has been criticised by Lyle Campbell and Donald Ringe, who do not believe that his classification is justified by his data and request a re-examination of his macro-phyla by "reliable methods" (Ringe 1993:104).
+Harold Fleming and Lionel Bender, who were sympathetic to Greenberg's classification, acknowledged that at least some of his macrofamilies (particularly the Nilo-Saharan and the Khoisan macrofamiles) are not accepted completely by most linguists and may need to be divided (Campbell 1997).
+Their objection was methodological: if mass comparison is not a valid method, it cannot be expected to have brought order successfully out of the confusion of African languages.
+By contrast, some linguists have sought to combine Greenberg's four African families into larger units.
+In particular, Edgar Gregersen (1972) proposed joining Niger–Congo and Nilo-Saharan into a larger family, which he termed Kongo-Saharan.
+Roger Blench (1995) suggests Niger–Congo is a subfamily of Nilo-Saharan.
+Its principal feature was to reduce the manifold language families of New Guinea to a single genetic unit.
+This excludes the Austronesian languages, which have been established as associated with a more recent migration of people.
+Greenberg's subgrouping of these languages has not been accepted by the few specialists who have worked on the classification of these languages.
+However, the work of Stephen Wurm (1982) and Malcolm Ross (2005) has provided considerable evidence for his once-radical idea that these languages form a single genetic unit.
+Wurm stated that the lexical similarities between Great Andamanese and the West Papuan and Timor–Alor families "are quite striking and amount to virtual formal identity [...] in a number of instances."
+He believes this to be due to a linguistic substratum.
+Some believe that two language families, Eskimo–Aleut and Na-Dené, were distinct, perhaps the results of later migrations into the New World.
+Early on, Greenberg (1957:41, 1960) became convinced that many of the language groups considered unrelated could be classified into larger groupings.
+In his 1987 book Language in the Americas, while agreeing that the Eskimo–Aleut and Na-Dené groupings as distinct, he proposed that all the other Native American languages belong to a single language macro-family, which he termed Amerind.
+Language in the Americas has generated lively debate, but has been criticized strongly; it is rejected by most specialists of indigenous languages of the Americas and also by most historical linguists.
+Specialists of the individual language families have found extensive inaccuracies and errors in Greenberg's data, such as including data from non-existent languages, erroneous transcriptions of the forms compared, misinterpretations of the meanings of words used for comparison, and entirely spurious forms.
+Historical linguists also reject the validity of the method of multilateral (or mass) comparison upon which the classification is based.
+They argue that he has not provided a convincing case that the similarities presented as evidence are due to inheritance from an earlier common ancestor rather than being explained by a combination of errors, accidental similarity, excessive semantic latitude in comparisons, borrowings, onomatopoeia, etc.
+However, Harvard geneticist David Reich notes that recent genetic studies have identified patterns that support Greenberg's Amerind classification: the “First American” category.
+“The cluster of populations that he predicted to be most closely related based on language were in fact verified by the genetic patterns in populations for which data are available.” Nevertheless, this category of “First American” people also interbred with and contributed a significant amount of genes to the ancestors of both Eskimo-Aleut and Na-Dené populations, with 60% and 90% "First American" DNA respectively constituting the genetic makeup of the two groups.
+The only exception was Yeniseian, which has been related to a wider Dené–Caucasian grouping, also including Sino-Tibetan.
+During 2008 Edward Vajda related Yeniseian to the Na-Dené languages of North America as a Dené–Yeniseian family.
+The Eurasiatic grouping resembles the older Nostratic groupings of Holger Pedersen and Vladislav Illich-Svitych by including Indo-European, Uralic, and Altaic.
+It differs by including Nivkh, Japonic, Korean, and Ainu (which the Nostraticists had excluded from comparison because they are single languages rather than language families) and in excluding Afroasiatic.
+At about this time, Russian Nostraticists, notably Sergei Starostin, constructed a revised version of Nostratic.
+It was slightly larger than Greenberg's grouping but it also excluded Afroasiatic.
+Recently, a consensus has been emerging among proponents of the Nostratic hypothesis.
+Greenberg basically agreed with the Nostratic concept, though he stressed a deep internal division between its northern 'tier' (his Eurasiatic) and a southern 'tier' (principally Afroasiatic and Dravidian).
+The American Nostraticist Allan Bomhard considers Eurasiatic a branch of Nostratic, alongside other branches: Afroasiatic, Elamo-Dravidian, and Kartvelian.
+Similarly, Georgiy Starostin (2002) arrives at a tripartite overall grouping: he considers Afroasiatic, Nostratic and Elamite to be roughly equidistant and more closely related to each other than to any other language family.
+Sergei Starostin's school has now included Afroasiatic in a broadly defined Nostratic.
+They reserve the term Eurasiatic to designate the narrower subgrouping, which comprises the rest of the macrofamily.
+Recent proposals thus differ mainly on the precise inclusion of Dravidian and Kartvelian.
+Greenberg continued to work on this project after he was diagnosed with incurable pancreatic cancer and until he died during May 2001.
+His colleague and former student Merritt Ruhlen ensured the publication of the final volume of his Eurasiatic work (2002) after his death.
+From the same publisher: second, revised edition, 1966; third edition, 1970.
+(In second edition of Universals of Language, 1966: pp.
+"Is Niger–Congo simply a branch of Nilo-Saharan?"
+In Fifth Nilo-Saharan Linguistics Colloquium, Nice, 24–29 August 1992: Proceedings, edited by Robert Nicolaï and Franz Rottland.
+American Indian Languages: The Historical Linguistics of Native America.
+In Historical Linguistics 2001: Selected Papers from the 15th International Conference on Historical Linguistics, Melbourne, 13–17 August 2001, edited by Barry J. Blake, Kate Burridge, and Jo Taylor.
+Guns, Germs and Steel: The Fates of Human Societies.
+"Pronouns as a preliminary diagnostic for grouping Papuan languages."
+In Papuan Pasts: Cultural, Linguistic and Biological Histories of Papuan-speaking Peoples, edited by Andrew Pawley, Robert Attenborough, Robin Hide, and Jack Golson.
+Pauline Donalda,  (March 5, 1882 – October 22, 1970) was a Canadian operatic soprano.
+She studied with Clara Lichtenstein (no relation) at Royal Victoria College, part of McGill University.
+In 1902, went to the Conservatoire de Paris on a grant from Donald Smith, Lord Strathcona, the patron of RVC.
+She adopted the stage name Donalda in honour of her patron.
+The following year, she debuted in London, singing the role of Micaëla in Carmen.
+Donalda was the first to sing the roles of Concepción in Maurice Ravel's L'heure espagnole and Ah-joe in Franco Leoni's L'Oracolo at Covent Garden.
+In November 1906, she returned to Montreal to sing in a recital at the Montreal Arena with her new husband, baritone Paul Seveilhac.
+The following month, she began a season with Oscar Hammerstein's new Manhattan Opera House.
+She returned to Europe in 1907, singing principally in London and Paris.
+Donalda was in Canada when World War I broke out.
+She chose to remain in the country, singing in concerts and music halls, with occasional appearances in New York and Boston.
+In Montreal, she organized the Donalda Sunday Afternoon Concerts, donating the proceeds to war charities.
+She returned to Paris in 1917, and married her second husband, Mischa Léon, there the following year.
+In 1922, Donalda opened a teaching studio in Paris where she taught many students over the next few years.
+She moved back to Montreal in 1937 and opened a studio there.
+She founded the Opera Guild of Montreal in 1942, serving as president and artistic director until 1969.
+In 1967, she was made an Officer of the Order of Canada "for her contribution to the arts, especially opera, as a singer and founder of the Opera Guild in Montreal."
+This is a list of German football transfers in the summer transfer window 2017 by club.
+Players may hold more than one non-FIFA nationality.
+Lester Hudson III (born August 7, 1984) is an American professional basketball player for the Liaoning Flying Leopards of the Chinese Basketball Association (CBA).
+In the 2007–08 season, Hudson recorded the only quadruple-double in NCAA Division I men's basketball history.
+At the conclusion of the season, he declared himself for the 2008 NBA draft, but later withdrew.
+Hudson was drafted by the Boston Celtics with the 58th pick of the 2009 NBA draft, but was later waived.
+Hudson later played for the Washington Wizards and Cleveland Cavaliers before returning to the Grizzlies in April 2012.
+The Skyhawks were picked last (11th) in a preseason poll but finished fourth and qualified for the OVC Tournament.
+Hudson made school, conference and NCAA history during the season, including becoming the first Division I men's player to record a quadruple-double (25 points, 12 rebounds, 10 assists and 10 steals vs. Central Baptist College) in a college game on November 13, 2007.
+(Counting Ann Meyers' 1978 quadruple-double for UCLA, at a time when women's college sports were governed by the AIAW instead of the NCAA, five women have recorded quadruple-doubles in NCAA Division I women's play, the most recent being Shakyla Hill of Grambling State on February 2nd, 2018.
+He also had a triple-double, eight additional double-doubles and cracked the 30-point plateau 11 times during his rookie season in the league.
+He finished the season ranked fifth nationally in points per game (25.7); fourth in steals (2.8) and tenth in 3-pointers made per game (3.8).
+He also ranked among the top 90 nationally in each rebounding (79th, 7.8/game), assists (88th, 4.5/game), 3-point percentage (72nd, 38.8%) and free throw percentage (67th, 83.4%).
+A Memphis, Tennessee native who transferred from Southwest Tennessee Community College, Hudson is the first UT Martin player to receive the OVC Player of the Year award.
+He was again honored in the 2008–09 season, the first back to back win since Murray State University's Marcus Brown won in the 1994-1995 and 1995-1996 seasons.
+He was also named to the OVC All-Newcomer squad, became just the fourth Skyhawk ever named to the All-OVC first-team (2007–2008 and 2008–2009,) and was named UT Martin's Bob Carroll Male Athlete of the Year.
+With All-American honors from the Associated Press and Collegeinsider.com, Hudson became the first player in UT Martin history to claim the honors since the school started playing in Division I.
+On January 2, an injury ravaged Celtics team turned to Hudson during a game against the Toronto Raptors.
+On January 6, 2010, Hudson was waived by the Celtics, but he was claimed by the Memphis Grizzlies two days later.
+The Grizzlies assigned him to the Dakota Wizards of the D-League on February 28, 2010.
+Hudson was waived on July 1, 2010 by the Grizzlies.
+He played for the Washington Wizards during the NBA's 2010 summer league.
+Hudson was invited to Wizards' training camp for the 2010–11 NBA season and made the team.
+After playing six games for them, he was waived on November 23, 2010.
+He was re-signed on December 20, 2010, but waived again on January 5, 2011.
+In January 2011 he signed with the Guangdong Southern Tigers in China.
+He quickly established himself, scoring at least 23 points in three consecutive games from April 6 to April 10.
+He also hit two last-second shots to force two games into overtime.
+On April 20, 2012, after his second 10-day contract expired, he joined the Memphis Grizzlies for the remainder of the 2011–12 season.
+On October 12, 2012, he signed with the Dongguan Leopards of China.
+On March 15, 2013, he was acquired by the Austin Toros of the NBA D-League.
+On October 1, 2013, he signed with the Utah Jazz.
+In November 2013, he signed with Xinjiang Flying Tigers.
+On October 14, 2014, he signed with the Liaoning Flying Leopards for the 2014–15 CBA season.
+On March 29, 2015, Hudson signed a 10-day contract with the Los Angeles Clippers.
+On April 11, he signed a multi-year deal with the Clippers.
+On September 13, 2015, Hudson returned to the Liaoning Flying Leopards, signing a new three-year deal with the club.
+Monique Ganderton (born August 6, 1980) is a Canadian stunt woman and actress who works in television and film.
+She started out in modeling before moving to stunt work.
+Standing 5 ft 11 in (1.8 m) tall, she has doubled for tall actresses like Tricia Helfer, Rachel Nichols,  Leelee Sobieski, Bridget Moynahan, Daryl Hannah, Rebecca Romijn and Famke Janssen.
+In 2009, she was cast as Alia, a recurring role in Season 9 of Smallville.
+In the 2019 film Avengers: Endgame, Ganderton was both a stunt woman and a stunt coordinator.
+This is a list of women artists who were born in Latvia or whose artworks are closely associated with that country.
+The white bikini of Ursula Andress (also known as the Dr. No bikini) was a white bikini worn by Ursula Andress as Honey Ryder in the 1962 James Bond film, Dr. No.
+It is cited as the most famous bikini of all time and an iconic moment in cinematic and fashion history.
+Andress's white bikini is regarded as monumental in the history of the bikini, and sales of the two-piece bikini rocketed after the appearance of Andress in Dr. No.
+The lower part of the bikini features a wide white British Army belt with brass buckles and fittings, and a scabbard on the left side to hold a large knife.
+Andress' bikini arrived at a key moment in the history of women's fashion, coming at the "birth of the sexual revolution": the 1960s.
+In the corresponding scene of the original novel, the character Honeychile Rider wears only a leather belt with a scabbard, and no bikini.
+Andress reported that when she arrived in Jamaica for filming, no costumes were ready.
+She worked with director Terence Young and the costume designer to create something that fit her 5'6", 36–24–36 frame.
+It was made from ivory cotton and was the only one made and worn by her.
+The moment in which Andress emerges from the sea in the white bikini has been cited amongst the greatest moments in film and one of its most erotic; in a 2003 UK Survey by Channel 4, it was voted number one in "the 100 Greatest Sexy Moments" of cinema.
+The scene has been widely emulated and parodied on screen since.
+The white bikini is regarded as perhaps the most important in the history of the bikini and sales of the two-piece bikini rocketed after the appearance of Andress in Dr. No.
+In a survey of 1000 women to celebrate the 60th anniversary of the bikini, Ursula Andress in her white bikini was voted "The Ultimate Bikini Goddess".
+Andress said that she owed her career to that white bikini, remarking, "This bikini made me into a success.
+As a result of starring in Dr. No as the first Bond girl, I was given the freedom to take my pick of future roles and to become financially independent."
+Andress auctioned the bikini through Christie's auction house in London, selling it for £35,000 in 2001, less than the £40,000 it had been expected to sell for.
+It has also been emulated by Halle Berry, who wore an orange bikini with a toolbelt in the 2002 James Bond film Die Another Day.
+When Daniel Craig took over the role of James Bond in the 2006 film Casino Royale, he appeared in a similar scene, emerging from the ocean wearing only a pale blue pair of swim trunks.
+This thirteen-second shot, focused on Bond's body rather than that of a Bond Girl, was widely interpreted as a callback to Andress in Dr. No and featured heavily in the film's promotion, although Craig claims the resemblance did not occur to him until it was filmed.
+Cellana radians, common name the radiate limpet, is a species of true limpet, a marine gastropod mollusc in the family Nacellidae, which is one of the true limpet families.
+The shell exhibits different morphological varieties, even in the same location.
+The shell can be grayish white on the outside with rather flat ribs that are somewhat darker.
+Its interior is iridescent and white, with gray muscle impressions.
+Worldwide phylogeography of limpets of the order Patellogastropoda: molecular, morphological and paleontological evidence.
+Onthophagus adelaidae is a species of beetle discovered by Frederick William Hope in 1846.
+Neal Alexander Scott Mackey (born 10 February 1983) is an English cricketer.
+Mackey is a right-handed batsman who bowls right-arm medium-fast.
+Mackey represented the Leicestershire Cricket Board in a single List A match against the Kent Cricket Board in the 2nd round of the 2003 Cheltenham & Gloucester Trophy which was held in 2002.
+In currently plays club cricket for Market Harborough Cricket Club in the Leicestershire Premier Cricket League.
+JNA Wireless Association is an amateur radio organisation based in Mumbai (formerly Bombay) in India.
+JNA was founded in 1988 in memory of late avid amateur radio operator, Jamshed N. Anklesaria (callsign: VU2JNA) who died in 1987.
+The organisation, currently headed by Sudhir Shah (VU2SVS) conducts classes and organises scramble teams to tackle disasters.
+Anklesaria was a bachelor who invested much of his time amateur radio, and radio equipment.
+After his death, instead of selling off the equipment, Anklesaria's brother requested current secretary, to perpetuate Jamshed's memory.
+Shah, along with P Venkatraman and a few others then started the JNA Wireless Association with the equipment donated by Jamshed's brother.
+The JNA has since then organised several classes and handled disasters around the city.
+After a brief lull, JNA restarted its amateur radio classes in 2008, with two batches held at Malabar Hill and Vile Parle.
+In 1993, JNA set up the first communication station at Killari, the epicenter of the 1993 Latur earthquake that killed 8,000.
+Headed by Sudhir Shah, JNA provided live communication between Killari and the state headquarters at Mantralaya in Mumbai.
+It broadcast messages relating to the extent of damage, extent of the calamity, and other life-saving messages.
+In 2008, the Brihanmumbai Municipal Corporation (BMC) included JNA as part of its disaster management operations to provide emergency communication support during the monsoons to provide live updates on the flooding situation in the city.
+Five stations were set up at Nana Chowk, Milan Subway, Kalina, Santacruz, and Chembur and were linked up to the main control centre at the BMC headquarters at Fort.
+In addition, another station, manned by Sha was set up at Malabar Hill with the help of the Malabar Hill Residents Association.
+The Arabic Numeral Series, sometimes referred to as the Arabics, is a series of 19 short 16mm films  completed by the American experimental filmmaker Stan Brakhage in 1981 and 1982.
+The Arabic Numeral Series gets its name from the fact that none of the films included in it have titles, instead opening with an arabic numeral.
+Brakhage produced another cycle, the Roman Numeral Series, whose films all have Roman numerals instead of titles, around the same time.
+All of the Arabics are silent and are intended to be projected at 18 frames per second.
+Writing in a 1997 introduction to a screening of the complete cycle, film critic Fred Camper referred to the Arabics as being the "richest" of the filmmaker's 1980s cycles, explaining: "With some exceptions, the Arabics take the idea of the void as their ground.
+That is, the light we do see almost always seems to be set against darkness, or occasionally against white, these momentary flickers that materialize tenuously out of emptiness.
+But the darkness is not 'night,' or even simply some more abstract absence of light, but a more profound vacuum: it represents a world stripped of all the coordinates of the known, an unmeasurable absence.
+[...] These lushly sensual, pleasurable-to-view films are also terrifying: their unpredictability, continually enacting new dramas of surprise, alternatively swamps the viewer in light and leaves him adrift in darkness. "
+No Stranger to Danger is the second album by the Payolas, released in 1982.
+The album is only available on vinyl and cassette; it has not been released on CD or as a commercial digital download, although some tracks (notably "Romance" and "Eyes of a Stranger") appear on some compilations.
+The Bienwald is a large forested area in the southern Pfalz region of Germany near the towns of Kandel and Wörth am Rhein.
+The western edge defines the eastern extent of the Wissembourg Gap, a corridor of open terrain between the Bienwald and the hills of the Palatine Forest.
+In the northwest, the forest is bounded by the so-called "Cattle Line" (), running from Schweighofen to Kandel.
+In the north, the forest reaches as far as Hatzenbühl and Rheinzabern.
+The eastern boundary largely runs along the bank of the Rhine from Jockgrim to Hagenbach and Berg (Pfalz).
+The southern boundary follows the valley of the Lauter along the border of France and Germany.
+The bulk of the forest belongs to the municipality of Wörth am Rhein.
+At its greatest extent, the Bienwald is approximately  wide along its east–west axis and  from north to south.
+Approximately one-third of the forest is deciduous woodland with the remainder coniferous.
+The forest has an elevation of  above sea level by the Rhine, and rises to  above sea level in its western extremities.
+The only settlement in the Bienwald is Büchelberg (940 inhabitants as of 2015), which lies inside a clearing in the forest and is administratively part of the town of Wörth am Rhein.
+On 13 August 1793, a battle of the War of the First Coalition took place in the Bienwald.
+Austrian troops under Marshal Dagobert Sigmund von Wurmser pushed the French Army back and frustrated the relief of Mainz.
+In March 1945, during World War II, the U.S. VI Corps and the French First Army assaulted German Siegfried Line fortifications in the Bienwald and penetrated German defenses in the forest during a week of heavy combat.
+The forest is still marked by trenches and bunker ruins from World War II.
+There are also older French earthworks (redoutes) in the southwestern parts of the forest where it borders the Lauter river and Mundat Forest ().
+The proposed construction of a multi-lane controlled access highway through the forest is disputed.
+The proposed road would connect the French A35 autoroute and the German A65 autobahn.
+European wildcats have taken up residence in the Bienwald in the last few years, often using the ruins of destroyed bunkers for shelter.
+is a Japanese anime television series broadcast from February 13, 1982 to March 26, 1983, comprising 58 episodes.
+It is the sixth entry to the Time Bokan series by Tatsunoko Productions and the first series to feature a super robot as the main hero.
+The series succeeded Yattodetaman and preceded Itadakiman in 1983.
+The title character is playable in the fighting game Tatsunoko vs. Capcom: Ultimate All-Stars.
+They are proud of themselves for being number one in the international ranking of billionaires for the past ten consecutive years.
+Meanwhile, there is another lease company in the same city called Skull Lease, where the notorious villain trio work as top executives.
+Their ostensible object is to disgrace the credit of Time Lease and replace them as the leading enterprise.
+However, they have a scheme to secure a footing for world conquest.
+One day, a transport robot of Time Lease is assaulted by the villain trio and Ippatsuman prepares to get on the move to fight for justice.
+"Breakout" is a single from British act Swing Out Sister's debut album It's Better to Travel.
+The single reached the number four position in the UK in the autumn of 1986, and rose to number six on the Billboard Hot 100 in the US and number one on the Adult Contemporary in the US in 1987.
+The song also resulted in a Grammy Award nomination for Best Pop Vocal Performance by a Duo or Group.
+The single was written and performed while the group was still a trio.
+It was one of their biggest hits, and the song most closely associated with the act.
+In the US, "Breakout" remains a staple of adult contemporary and smooth jazz radio station playlists.
+During the first chorus, when Andy Connell and Martin Jackson appear, Drewery looks at them strangely.
+The Incredible Hulk is a side-scrolling action video game released for the Super NES, Genesis, Master System, and Game Gear.
+The game was released in August 1994 and was published by U.S. Gold.
+Five levels await ranging from city skyscrapers to alien landscapes.
+The Marvel Comics villains featured as the five levels' respective bosses are The Abomination (who appears as a sub-boss in every level), Rhino, Absorbing Man, Tyrannus, and the Leader.
+The player navigates The Hulk through the 7 different levels, defeating enemies such as The Leader's robots to The Abomination as a mini-boss in most levels.
+Different power-ups can be collected, such as extra time in the level boss, super-health pills, extra lives, and tranquility pills.
+Tranquility pills can be stored and used at will, and their effect reverts The Hulk back to Bruce Banner.
+While in Banner form, the player has no form of attack, except for laser guns randomly found in a level, which only have 2 bullets per gun.
+The player's only other option is to evade any enemies by jumping if not possessing a gun.
+Bruce will transform back into The Hulk if any hits are taken while standing up on the ground.
+The player can also utilize Banner's smaller size to fit through small passages that The Hulk cannot fit through, leading to secret rooms.
+Through use of a cheat code, the player can swap through Banner and The Hulk at will during the pause menu.
+There are 3 different endings in the game, depending on what difficulty the player has beaten the game on.
+The Easy ending has The Leader scoffing at the Hulk's power, further angering him, and then going to the credits.
+The normal ending contains The Leader leaving his hideout in an escape pod, and triggering the self-destruct sequence on his fortress.
+The Hulk escapes before the fortress explodes, then the credits play.
+The Hard ending can be considered the best ending, as it contains a lot of details from the Normal ending.
+The Leader attempts to escape once again, but The Hulk retaliates by throwing a chunk of rubble at The Leader's escape pod and sending it down.
+The battle is considered over, and peace is restored to the area.
+If the player fails to continue the game, then the Leader takes over the world in an act of world domination.
+GamePro gave the Genesis version a moderately positive review, commenting that the best parts of the game are the well-done graphics and the "old-fashioned, platform-style action/adventure levels, each with multiple paths".
+Mega placed the game at number 39 in their Top Mega Drive Games of All Time.
+The four reviewers of Electronic Gaming Monthly gave the Game Gear version a 6.8 out of 10, commenting that "Game Gear continues to astound!
+This one has great graphics and the game play couldn't be better."
+GamePro similarly commented "The rock-solid Genesis game has been translated into one of the best-looking Game Gear games of the summer.
+Marvel's heroes don't always fully succeed as hand-held games (just ask Spidey), but The Hulk rocks."
+They praised the special moves, graphics, animation, and "imaginative" bosses, and remarked that aside from the sometimes inaccurate jump, the controls are perfect.
+Reviewing the SNES version, GamePro again praised the well-done graphics and solid gameplay, though this time they criticized that the game is too easy.
+Caladenia cretacea, commonly known as Stuart Mill spider orchid, is a plant in the orchid family Orchidaceae and is endemic to a small area in Victoria.
+It is a rare ground orchid with a single leaf and one or two white flowers on a hairy stalk.
+One or two white or greyish-white flowers with reddish-brown tips are borne on a hairy spike  tall.
+The flowers have a fragrance resembling hot metal.
+The petals and sepals are  long and sometimes have a reddish line along their centres.
+The dorsal sepal is erect and the lateral sepals and petals spread widely but with drooping ends.
+The sepals are flat near their bases and  wide at the base and taper to a thread-like end with reddish-brown glandular hairs.
+The petals are similar to the sepals but slightly shorter.
+The labellum is narrow triangular to lance-shaped,  long and  wide when flattened and curves downward at the tip.
+The sides of the labellum turn upwards and have reddish a fringe of linear teeth mostly  long but decreasing in size towards the front.
+There are about four rows of foot-shaped calli along the centre of the labellum, decreasing in size towards the front.
+Flowering occurs between late August and early October.
+The description was published in Australian Orchid Research, based on a specimen found in the Dalyenong Nature Conservation Reserve.
+In 2007, Gary Backhouse changed the name to Caladenia cretacea, publishing the name change in The Victorian Naturalist.
+The specific epithet (cretacea) is a Latin word meaning "chalky", referring to the dull white to grey colour of the flowers of this orchid.
+It is only known from the John Colahan Griffin Nature Reserve near Stuart Mill.
+A successful program of propagation and reintroduction of the species has been undertaken, 70 of the 124 individuals planted having survived as at 2016.
+The main threats to the species are weed invasion and grazing by native animals and rabbits and as "Critically Endangered" under the Commonwealth Government Environment Protection and Biodiversity Conservation Act 1999 (EPBC) Act.
+Charles M. Dawson (8 October 1893 – 9 October 1973) was a politician from the U.S. state of Indiana.
+Between 1941 and 1945 he served as Lieutenant Governor of Indiana.
+According to his great-grandson Charles McKinley Dawson III he was a farmer and he held several local offices.
+Later he joined the Democratic Party and in 1940 he was elected to the office of the Lieutenant Governor of Indiana.
+He served in this position between 13 January 1941 and 8 January 1945 when his term ended.
+In this function he was the deputy of governor Henry F. Schricker and he presided over the Indiana Senate.
+Charles Dawson died on 9 October 1973 in Indianapolis and was buried on the Crown Hill Cemetery in that city.
+"Prisoner and Escort" is the pilot episode of the BBC sitcom Porridge.
+It was originally broadcast on 1 April 1973 as part of a series of pilot shows with the overall title Seven of One.
+In this episode, Norman Stanley Fletcher is transported from London to Slade Prison by Mr Mackay and Mr Barrowclough.
+When asked if he has anything to say before sentence is passed, the film jumps to Fletcher on a train saying "Cobblers".
+Fletcher soon finds out that his prison escort Mr Mackay is very strict and doesn't allow him to read his paper.
+Mr Barrowclough is softer, and tries to be friendly towards Fletcher.
+It turns out that Mr Mackay is unhappy about having to do a prison escort on New Year's Eve.
+In the North of England, McKay and Barrowclough take Fletcher into a prison van for the next part of their journey.
+It soon transpires that Slade Prison is in the middle of nowhere, miles away from the nearest village.
+Fletcher asks to use the bathroom, but Mackay does not allow this, as he is handcuffed to Fletcher.
+Mackay instead allows Fletcher to go quickly behind the van.
+Fletcher eyes up the fuel cap, implying that he is going to urinate in the petrol tank.
+Mackay goes for help, leaving Fletcher alone with Barrowclough.
+It soon gets dark, and Fletcher persuades Barrowclough to let them take shelter in a nearby cottage.
+Barrowclough is doubtful that the cottage is occupied, but Fletcher reassures Barrowclough that he is "only an experienced house-breaker after all".
+At midnight, Fletcher and Barrowclough wish each other a happy new year.
+Fletcher offers Barrowclough some whisky, which he claims "fell out of Mr Mackay's pocket".
+They soon get drunk, and Fletcher persuades Barrowclough to take the handcuffs off him.
+With Barrowclough asleep, Fletcher attempts to escape.
+Due to the darkness, Fletcher goes round in circles, and is severely disappointed to discover that he ends up back at the cottage with Barrowclough.
+Fletcher pretends that he was going out for milk, but Barrowclough tells Fletcher that he could have got lost.
+Finally, Fletcher arrives in Slade Prison, and Mackay informs Fletcher that the mechanic's report of the vehicle found something other than petrol in the tank.
+Mackay warns Fletcher he'll be keeping a close watch on Fletcher, but Barrowclough tells Fletcher that he is pleased because the Governor congratulated him on keeping his cool during a difficult situation.
+Barrowclough says he will do his best to help Fletcher out.
+The breakdown was filmed on the mountain road and a farm at Gelligaer.
+Astrebla elymoides, commonly known as hoop Mitchell grass, is a herb of the family Poaceae.
+Named in honour of Thomas Mitchell, it is regarded as the best of the Astrebla grasses for grazing, particularly for cattle.
+Often seen growing to one metre tall, on floodplains and heavy self mulching clay soils in arid to semi arid Australia.
+TuS Nettelstedt-Lübbecke  is a handball club from Lübbecke, Germany, that plays in the 2.
+The McCraw Cemetery is a historic cemetery in Jacksonville, Arkansas.
+It is located in a wooded area on the city's southeastern outskirts, well south of the Military Road (Arkansas Highway 264), and west of the Military Mobile Homes.
+It has 37 marked graves, of which ten are of children.
+The markers date from 1841 to 1937, and include some of the first settlers of northern Pulaski County.
+The cemetery, a family plot of the McCraw family, was lost for many years, and is now under the care of the Reed's Bridge Historical Society.
+The cemetery was listed on the National Register of Historic Places in 2006.
+Michael Andrew Sembello (born April 17, 1954) is an American singer, guitarist, keyboardist, songwriter, composer and producer from Philadelphia, Pennsylvania.
+Sembello was nominated for an Academy Award and a Golden Globe for his 1983 song "Maniac", which he sang and co-wrote.
+The song reached number one in the United States and featured in the Flashdance movie soundtrack.
+He is the brother of the late songwriter and composer Danny Sembello and the late singer songwriter John Sembello of Dino & Sembello fame.
+By age 17 he was working professionally with Stevie Wonder on electric and acoustic guitar as a studio player on Wonder's Fulfillingness' First Finale.
+He continued the same year, chosen as one of the core artists who worked on Songs in the Key of Life, an ambitious double album that took two years to create.
+He was credited as lead and rhythm guitarist on most of the tracks—including the intricate jazz rock lead guitar part of the instrumental "Contusion"—and shares songwriting credit with Wonder on the song "Saturn", according to the album's liner notes.
+Sembello wrote a song, "Carousel", which Michael Jackson recorded for his 1982 album Thriller, but it was replaced on the track list by "Human Nature".
+The song was subsequently included as a bonus track on Thriller 25, the 25th-anniversary edition reissue of the album; the full version was later released on iTunes in 2013 as part of The Ultimate Fan Extras Collection.
+Sembello released his first solo album, Bossa Nova Hotel, in 1983.
+The song "Maniac" from that album, which he co-wrote with his keyboardist Dennis Matkosky, was selected for inclusion in the film Flashdance.
+"Maniac" was the second-best-charting song from the soundtrack (after the title track) and the ninth-biggest single of 1983.
+That soundtrack won a Grammy Award in 1984 for Best Album of Original Score Written for a Motion Picture or a Television Special.
+Sembello produced guitarist Jennifer Batten's first solo album, Above Below and Beyond in 1992.
+In 1994, he produced Argentine singer Valeria Lynch's album Caravana de Sueños (1994), and co-wrote the title song with Puerto Rican Wilkins Vélez.
+Sembello's songs are featured in the films Cocoon, Independence Day, Gremlins, The Monster Squad and Summer Lovers.
+His song "Gravity" from Cocoon was accompanied by a music video directed by the film's director Ron Howard and included an appearance by Howard in a scripted fictional foreword to the video.
+In 2008, Sembello worked with saxophonist Michael Lington on his album Heat, which was nominated as Jazztrax Album of the Year for 2008.
+Michael and his brother Danny Sembello penned three songs with Lington for the project.
+Sembello has recorded his vocals in six languages.
+In May 2009, the album Moon Island was released on EMI Japan.
+The album consists of American pop songs given new arrangements with a strong Brazilian influence.
+The Letaba River (), also known as Leţaba, Lehlaba or Ritavi, is a river located in eastern Limpopo Province, South Africa.
+It is one of the most important tributaries of the Olifants River.
+It joins the Olifants River in the foothills of the Lebombo Mountains, near South Africa's border with Mozambique.
+In Mozambique the latter river is called the Rio Elefantes.
+Tributaries include the Middle Letaba River, Nharhweni River, Ngwenyeni River, Nwanedzi River, Molototsi River, Nsama River and Makhadzi River.
+Muthukulam is a small backwater village in the Karthikapally Taluk of Alappuzha district in the Indian state of Kerala.
+Population of Children with age of 0-6 is 1719 which is 8.29% of total population of Muthukulam.
+In Muthukulam, Female Sex Ratio is 1189 against state average of 1084.
+Moreover, Child Sex Ratio in Muthukulam is around 852 compared to Kerala state average of 964.
+Literacy rate of Muthukulam is 95.73% higher than state average of 94.00%.
+In Muthukulam, Male literacy is around 97.48% while female literacy rate is 94.29%.
+Out of total population, 6,505 were engaged in work related to Primary sector or business activity.
+Of this 4,242 were males while 2,263 were females.
+Of total 6505 working population, 72.85% were engaged in Main Work while 27.15% of total workers were engaged in Marginal Work.
+Muthukulam has total administration over 5,692 houses to which it supplies basic amenities like water, electricity and sewerage.
+It is also authorised to build roads within its limits and impose taxes on properties coming under its jurisdiction.
+It is bordered by the Kanyakumari-Panvel National Highway 66 on the east and the backwaters to the west.
+A narrow strip of land comprising Aratupuzha village beyond the backwaters separates Muthukulam from the Arabian sea in the West.
+The nearest major towns are Haripad and Kayamkulam which are well connected by Kayamkulam-Muthukulam-Haripad road.
+The nearest railway station are Haripad(HAD) and Kayamkulam(KYJ).
+Pandavarkaavu Temple which is one of the oldest and important temples in the erstwhile Travancore is the major attraction of Muthukulam.
+The temple which is believed to have been installed by Kunti Devi, Mother of the Pandavas, has goddess Durga as the presiding deity.
+According to legend, each Pandavas had installed an idol of Lord Vishnu in the five places on the banks of the River Pampa and their mother installed Durga at Muthukulam.
+They developed an idol with clay and offered it 'Kadalipazham' a variety of banana.
+Still 'Kadalipazham' serving to goddess is practiced by devotees.
+The shrines installed by pandavas dedicated to Lord Vishnu at Thrichitat, Thiruppuliyoor, Thiruvaranmula, Thiruvanvandoor and Thrikkodithanam, located in central Kerala districts, are collectively called ‘Pandava Temples’ of the state.
+According to legend, the idol of Thrichittat temple was installed by the eldest Pandava Yuddhishtra, Tiruppuliyoor by Bheema, Thiruvaranmula by Arjuna and the idols of Tiruvanvandoor and Thrikkodithanam temples respectively by youngest ones Nakula and Sahadeva.
+Travancore Devaswom Board (TDB) is drawing up an ambitious pilgrim tourism circuit programme connecting the ‘Pandava temples’ under the Centre’s ‘Swadesh Darshan’ scheme, which is meant for theme-based development of destinations.
+Ramesh Chennithala is the Current Member of legislative Assembly.
+Muthukulam is a place where the two alliances, UDF and LDF, have comparable power.
+However in 2015 Panchayath Elections Indian National Congress won 8 out of 15 wards,  while LDF settled for 3 wards alongside Congress rebels,  Muthukulam Congress Samrakshaka Samithy which also got 3 wards.
+BJP Opened its account for first time winning a ward.
+Padmarajan: Eminent Director and the founder of a new school of film making in Malayalam.
+Navya Nair : State Award winner South Indian Film actress and Classical dancer.
+The Pear Tree (Derakht-e-Golabi) is a 1998 Iranian drama movie written and directed by Dariush Mehrjui with Homayoun Ershadi and Golshifteh Farahani in the lead.
+The movie was noted for the exemplary craftsmanship of Dariush Mehrjui on his examination of the Iranian bourgeoisie.
+This movie is also the debut film of actress Golshifteh Farahani.
+He decides to take a break from his routine life and plans to visit his family's rural estate that is situated at north of Tehran.
+He also intends to complete his book in this visit.
+While at the estate, Mahmoud's attention is brought to the old Pear Tree that is situated behind the estate by the old gardener of the estate (Nematollah Gorji).
+Seeing the Pear Tree,  Mahmoud thinks about his past - his infatuation towards his  14-year-old female cousin known only as M (Golshifteh Farahani), his adolescent dreams, how that changed over the years.
+The rest of the film chronicles thoughts of Mahmoud and his past.
+This movie is usually considered as one of the finest example of Dariush Mehrjui's craftmanship.
+While some of the reviews compared it with Ingmar Bergman's The Wild Strawberries, some of them noted that some of the flashback scenes served as fragile symbols for the Mehrjui's hope for Iran's future.
+The performances of Homayoun Ershadi and Golshifteh Farahani were hailed, and so as the cinematography of Mahmoud Kalari.
+Tiarno may refer to 2 Italian villages of the province of Trento.
+Nicole Watt, married surname Yam, (born April 28, 1985) is a Canadian former competitive figure skater.
+She is the 2001 Canadian national silver medalist and competed at the 2001 Four Continents Championships and three Grand Prix events.
+When she was eight years old, she was diagnosed with Juvenile rheumatoid arthritis and began taking a powerful drug, which lessened but did not completely eliminate her symptoms.
+She is a national spokesperson for the Canadian Arthritis Society.
+As of July 2013, she is studying medicine at the University of Saskatchewan.
+She landed her first triple, a Salchow, when she was twelve.
+She first attracted national attention when she placed 4th on the senior level at the 2000 Canadian Championships.
+She was coached mainly by Dale Hazell and also trained with John Nicks in the summer of 2000.
+In autumn 2000, Watt received two ISU Junior Grand Prix assignments, competing in Mexico and China.
+In January 2001, she won the senior silver medal at Canadian nationals.
+She was assigned to the 2001 Four Continents and finished 11th.
+Watt made her senior Grand Prix debut the following season, competing at the 2001 Skate Canada International and 2001 Trophée Lalique.
+In late December 2002, her left knee was drained due to swelling caused by her arthritis.
+She withdrew from the 2003 Canadian Championships after competing in the qualifying and short programs.
+In February 2003, Watt said that her disease was in remission and that she was off her medication and training on ice 3–4 hours a day.
+Her condition subsequently deteriorated, causing her to leave skating and stay off the ice almost entirely for three and a half years until autumn 2008.
+Although she attempted to make a comeback, she did not qualify for the 2009 Canadian Championships.
+Watt was one of the recipients of the 2004 Stacey Levitt Women and Sport and 2011 UCBeyond scholarships.
+The San Pedro y San Pablo College colonial church and school complex built in late 16th and early 17th centuries, located in the historical center of Mexico City district of Mexico City, Mexico.
+Today the church section of the complex houses the Museum of the Constitutions of Mexico−Museo de las Constituciones.
+The former school section of the complex stretches along San Ildefonso Street to Republica de Venezuela Street.
+The Jesuit missionaries were sent to the new colony in the 16th century for Jesuit Reductions version of Indian Reductions, and to found new missions and schools.
+The missionary group that founded the college was led by Father Pedro Sanchez.
+and the official founding occurred in 1574 with the name of Colegio Máximo de San Pedro y San Pablo (Great College of Saints Peter and Paul).
+It was called "Máximo" because it was built to oversee the training of priests in Mexico City, Tepotzotlan, Puebla, Guadalajara, Zacatecas, Guatemala and Mérida.
+Construction of the facility began in 1576, funded by Don Alonso de Villaseca and others.
+The college's church, on the corner of El Carmen and San Ildefonso, was built by Jesuit architect Diego Lopez de Arbaizo between 1576 and 1603.
+The church annex was completed in 1603 by Diego Lopez de Albaize, and the rest of the college complex was finished in 1645.
+The purpose of the college was to provide university-level education to young Criollo men, at least partially descended from white European colonial settlers.
+It was divided into the Lesser Schools, which taught humanities and Greek/Latin grammar, and the Superior Schools, which focused on theology, the arts and philosophy.
+The institution educated young men for both religious and secular vocations.
+The school building was given to civil authorities, who first used it as a barracks and later to house the Nacional Monte de Piedad "credit union" charity foundation.
+The church was transferred to Augustinians, who removed most of the church's decoration.
+The altarpieces, paintings, and other decorative objects were redistributed to other churches, especially to the Metropolitan Tabernacle of the Mexico City Cathedral, where many of these pieces still remain.
+During this time, the complex began to seriously deteriorate.
+They worked to rebuild both the church and the school, with much of the physical reconstruction done by Cristóbal Rodríguez.
+However, San Pedro y San Pablo College never returned to its function, mostly due to the concurrent Mexican War of Independence against Spain.
+Shortly after Mexican independence was first declared in 1821, several important events occurred in the church building.
+In 1823, after proclaiming the independence of Mexico, Agustín de Iturbide held meetings here which led to the promulgation of the "Reglamento Provisional del Imperio" (Provisional Regulations of the Empire).
+In the following year, the initial sessions of the Constituent Congress were held here, which wrote the first Federal Constitution of Mexico in 1824.
+After Iturbide's short reign as emperor, Guadalupe Victoria was sworn in as the first president of Mexico here.
+The church reopened for worship from 1832 to 1850, but then closed to become the library of San Gregorio College.
+During this time, the Virgin of Loreto image of Mexico City was here from 1832 to 1850 when it was thought that the Nuestra Señora de Loreto Church it belonged to might collapse.
+Later, the space had quite a number of uses such as a dance hall, an army depot and barracks, a correctional school called Mamelucos, a mental hospital, and a storage facility for Customs.
+Vasconcelos had the church building redecorated, adding a number of important early modern mural works by artists such as Xavier Guerrero and Roberto Montenegro.
+From 1927 to 1930, the building was converted to workshops for the Academy of San Carlos, which had become integrated with the re-established National University (now UNAM).
+The Escuela Popular Nocturna de Música (School of Popular Evening Music) also occupied part of the building.
+In this way, the complex became part of University property, which it remains.
+In the early 1930s the university made it part of the National Preparatory School, and shortly after that it was also used as a secondary school, a School of Theater, an exhibition hall, and other uses.
+In 1944, the church part was inaugurated by President Ávila Camacho as the National Periodical Archive (Hemeroteca Nacional), which it remained until 1979.
+In 1996 the Museum of Light was established by UNAM, with a gallery in the building.
+It has a portal that is flanked by two pairs of Doric pilasters, which extend up to frame a window which is stained-glass in the design of the coat-of-arms of UNAM.
+Above the window is a triangular pediment which has a niche containing a statue of Athena.
+The portal is topped with a large curved pediment with a small crest bearing the coat-of-arms of Spain.
+The bell tower of the church is situated on the northwest side, behind the main façade.
+The inside of the church is in the form of a cross, with thick interior buttresses that marked off space for the church's various chapels.
+These buttresses extend upwards to support a handkerchief-vaulted ceiling.
+These interior arches have been painted with rustic-style flora and fauna created by Roberto Montenegro, Jorge Enciso, Gabriel Fernández Ledesma, and Rafael Reyes Espindola.
+Another feature of the church is its three stained glass window pieces.
+Two of these were designed by Roberto Montenegro and called La Vendedora de Pericos (The Parakeet Seller), and the other is called El Jarabe Tapatio (The Jarabe Dance of Guadalajara).
+The stained glass window with the seal of the University visible on the church's facade was designed by Jorge Enciso.
+All of these designs were then crafted by Eduardo Villaseñor.
+This part of complex originally had four courtyard patios, but two were demolished to make way for Republica de Venezuela Street.
+In one of the remaining patios, there is an obelisk that records the three institutions of learning that have been housed at the site.
+Today, this part of the building is dedicated to a number of uses, one of which is being the home of Secondary School #6.
+Murals and decorative painted walls, part of the Mexican government’s renowned 1920s Mexican Muralism project for public buildings, were commissioned by José Vasconcelos.
+The decorative paintings of rustic-style flora and fauna on the buttresses and arches, several wall murals and frescos, and Montenegro's stained glass windows, remain from that period and are conserved.
+It was restored in 2010, as part of the renovations for the new Museum of the Constitutions of Mexico.
+Xavier Guerrero decorated the presbytery's dome in the 1920s, with paintings that were inspired by the zodiac.
+The most important was titled The Festival of the Cross, which was painted in the stairwell of the east patio.
+In the stairway at the northwest corner of the cloister's patio, there is a fresco done by Roberto Montenegro in 1923, titled The Festival of the Holy Cross.
+It is said to have been done in a style to imitate fellow muralist Diego Rivera.
+Later in the 1920s, an allegory of the Mexican Revolution titled The Iconographic Museum of the Revolution was begun in the cloister by Gabriel Fernández Ledesma, but was not finished.
+It is a science museum dedicated to the phenomena of light and a contemporary art gallery for works of light art.
+The San Pedro y San Pablo College building was closed in 2010, in order to convert it into the Museum of the Constitutions.
+The Museum of Light moved out, and is now located in the colonial era San Ildefonso College building, also in the historic center of Mexico City.
+The Immortals directed by Shivendra Singh Dungarpur premiered at the 20th Busan International Film Festival in October 2015 and was also shown at the 17th Jio MAMI Mumbai Film Festival.
+It was screened as the opening film in the Documentary Section at the 21st Kolkata International Film Festival.
+"The Immortals" (2015) was selected for the National Competition Section at the 14th Mumbai International Film Festival (MIFF) 2016 and won the Special Jury Award that was presented to Shivendra Singh Dungarpur at the closing ceremony on 3 February 2016.
+The Immortals will be screened at the 30th edition of the Il Cinema Ritrovato Festival in Bologna in June 2016.
+It is a visual exploration of physical artifacts, personal spaces and living memories where the image speaks for itself, recreating the impression of each artist whilst telling the story of Indian cinema.
+The film depicts the paradox of India’s relationship with cinema: the romance and the power, the neglect and the worship.
+Dadasaheb Phalke’s car abandoned by the side of a road; K.L.
+Saigal’s harmonium fallen silent like his voice; the homes of Satyajit Ray and Baburao Painter where films like Pather Panchali and Savkari Pash took shape; a hundred-year-old cinematographer sifting through letters from Jean Renoir speaking of a deep and abiding friendship; the whirring of the only surviving black and white lab at AVM Studios; the quest for Anthony Gonsalves .
+each image a reminder of how much we have lost, yet evoking memories that live on in spaces, objects and reminiscences of people.
+Sir Paul Collier,  (born 23 April 1949) is a British development economist who serves as the Professor of Economics and Public Policy in the Blavatnik School of Government and the director of the International Growth Centre.
+He currently is a Professeur invité at Sciences Po and a Professorial Fellow of St Antony's College, Oxford.
+He has served as a senior advisor to the Blair Commission for Africa and was the Director of the Development Research Group at the World Bank between 1998 and 2003.
+He was brought up in Sheffield where he attended King Edward VII School and studied at the University of Oxford.
+From 1998 until 2003 he was the director of the Development Research Group of the World Bank.
+In 2010 and 2011, he was named by Foreign Policy magazine on its list of top global thinkers.
+Collier currently serves on the advisory board of Academics Stand Against Poverty (ASAP).
+Collier is a specialist in the political, economic and developmental predicaments of low-income countries  His research covers the causes and consequences of civil war; the effects of aid and the problems of democracy in low-income and natural resources rich societies; urbanization in low-income countries; private investment in African infrastructure and changing organizational cultures.
+In 1988 he was awarded the Edgar Graham Book Prize for the co-written Labour and poverty in rural Tanzania: Ujamaa and rural development in the United Republic of Tanzania.
+The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It (), has been compared to Jeffrey Sachs's The End of Poverty and William Easterly's The White Man's Burden, two influential books, which like Collier's book, discuss the pros and cons of development aid to developing countries.
+The book is about sustainable management in relation with the geo-politics of global warming, with an attempt to avoid a global tragedy of the commons, with the prime example of overfishing.
+In it he builds upon a legacy of the economic psychology of greed and fear, from early Utilitarianism (Jeremy Bentham) to more recently the Stern Review.
+In November 2014, Collier was awarded the President's Medal by the British Academy, for "his pioneering contribution in bringing ideas from research in to policy within the field of African economics."
+In July 2017, Collier was elected a Fellow of the British Academy (FBA), the United Kingdom's national academy for the humanities and social sciences.
+The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It, Oxford University Press, 2007  .
+Wars, Guns and Votes: Democracy in Dangerous Places, Harper, March 2009  .
+The Plundered Planet: Why We Must, and How We Can, Manage Nature for Global Prosperity, Oxford University Press, 2010  .
+: Successes and Failures in Natural Resource Extraction co-edited with Anthony J. Venables, Palgrave Macmillan UK, 2011  .
+Exodus: How Migration is Changing Our World, Oxford University Press, October 2013  .
+Refuge: Rethinking Refugee Policy in a Changing World with Alexander Betts, Oxford University Press, September 2017  .
+The Future of Capitalism: Facing the New Anxieties, Allen Lane, April 2018  .
+(with V. L. Elliott, Håvard Hegre, Anke Hoeffler, Marta Reynal-Querol, Nicholas Sambanis) 'Breaking the Conflict Trap: Civil War and Development Policy' "World Bank Policy Research Report," 2003.
+(with Anke Hoeffler) 'Greed and grievance in civil war' Oxford Economic Papers, vol 56 issue 4, 2004, pp.
+(with Lisa Chauvet and Haavard Hegre) 'The Security Challenge in Conflict-Prone Countries', Copenhagen Consensus 2008 Challenge Paper, 2008.
+RAF Poulton (X4PL) is a  former Royal Air Force station located near Poulton, Cheshire and was operational from 1 March 1943 until 1945.
+It was used as an Operational Training Unit (OTU) and Tactical Exercise Unit (TEU) for Hawker Hurricanes.
+Possibly moved to Aston Down on 18 Dec 44 and re-designated as No 55 OTU.
+No 12 (P) AFU (Pilot Advanced Flying Unit), using the Airspeed Oxford.
+No 1515 BAT Flight (Beam Approach Training), almost certainly using the Airspeed Oxford.
+No 41 OTU (Operational Training Unit)(Day Fighter Wing), possibly using the Hawker Hurricane.
+Clemente "Chito" Agosto (born in ) is a Puerto Rican politician and the current mayor of Toa Alta.
+Agosto is affiliated with the Popular Democratic Party (PPD) and has served as mayor since 2013.
+Agosto has an associate degree in Business Administration from the Interamerican University of Puerto Rico.
+He started his professional career as an entrepreneur, and was owner of various restaurants.
+Grace Academy is a non-selective co-educational secondary school within the English Academy programme, at Chelmsley Wood, Solihull, West Midlands.
+It opened in 2006 and replaced the old Whitesmore School.
+It is a specialist Business and Enterprise college.
+Grace Academy Solihull is constituted as a company and registered charity under English law.
+In 2009 the school achieved average results for Key Stage 2 to Key Stage 4 but only 28% achieved 5 or more GCSEs grade C or above compared to a national average of 47.6%.
+Grace Foundation is endowed by Bob Edmiston, entrepreneur and founder of the evangelical international charity Christian Vision, who is a governor of Grace Academy.
+Inside St Cadfan's Church, Tywyn, Gwynedd is an inscribed stone cross called the Cadfan Stone (or the Tywyn Stone).
+On it are the earliest known inscriptions in the Welsh language, specifically in Old Welsh.
+Recent scholarship dates the inscriptions to the 9th century.
+Ifor Williams dated them to the 8th century, and a late 7th century or early 8th century date was suggested by Kenneth H. Jackson.
+A date between the 7th century and the 9th century is suggested by Coflein, the website of the Royal Commission on the Ancient and Historical Monuments of Wales.
+Originally the stone stood over 2.3 metres tall, but it now measures  2.18m tall by 0.25m and 0.2m.
+Below is the interpretation given in the most recent study of the stone (sides A, B, C and D) by Nancy Edwards.
+Exceptions include the poems 'Cofebion Tywyn' by Owain Owain and 'Y boen' by Myrddin ap Dafydd.
+The 2002 United States Senate election in Kansas was held on November 4, 2002.
+Senator Pat Roberts won re-election to a second term overwhelmingly.
+No Democrats filed to run, and Roberts was only opposed by a Libertarian candidate and a Reform Party candidate.
+Medford/Tufts station is a planned light rail station on the MBTA Green Line "D" Branch, to be located at College Avenue next to Tufts University in Medford, Massachusetts.
+It will be the northern terminus of the "D" Branch and is the final station on the second phase of the Green Line Extension.
+Medford/Tufts will consist of one island platform, which will serve the "D" Branch's two tracks.
+Previous commuter rail stations on what is now the Lowell Line were located nearby from the mid 19th century to the mid 20th century, and from 1977 to 1979.
+By 1889, College Hill station was located on the north side of the tracks just west of College Avenue.
+By 1900, College Hill was replaced with Tufts College station, located on the opposite side of the tracks and slightly to the south at Pearson Street.
+Horsecars, and later streetcars consolidated under the Boston Elevated Railway, cut sharply into local railroad traffic.
+On April 18, 1958, the Public Utilities Commission approved a vast set of cuts to Boston and Maine Railroad commuter service, including the closure of North Somerville, Tufts College, and Medford Hillside stations.
+The three stations were closed on May 18, 1958, amid the first of a series of cuts.
+On September 15, 1977, the MBTA opened Tufts University station near the Tufts College station site.
+It was abandoned in October 1979 due to poor ridership.
+Spirit Lost is a 1997 film directed by Neema Barnette and starring James Avery and Yvonne Brisendine.
+She eventually lures him into moving into his attic studio while she tries to scare his now unhappy and pregnant wife away.
+Apergy is a fictitious form of anti-gravitational energy first described by Percy Greg in his 1880 sword and planet novel Across the Zodiac.
+It is also used by John Jacob Astor IV in his 1894 science fiction novel, A Journey in Other Worlds.
+Apergy can also be found in an 1896 article by Clara Jessup Bloomfield-Moore, called "Some Truths About Keely".
+In it, apergy is used to describe the latent force John Keely harnessed, by using frequency to release the latent force found within all atomic matter.
+In an 1897, ostensibly non-fictitious, article in The San Francisco Call titled "The Secret of Aerial Flight Revealed", science correspondent Frank M. Close, D.
+Sc., visits an unnamed Hindu man masquerading as a viticulturist somewhere on the Pacific coast who claims to have invented a flying boat that uses an "apergent" -- a rare metal called "radlum" -- to produce controlled apergic force, allowing the vessel to ascend and descend.
+The inventor describes apergy as "a force obtained by blending positive and negative electricity with ultheic, the third element or state of electric energy" and calls apergy a "second phase of gravity", hinting at a third phase as well.
+In S. P. Meek's short story "Cold Light", which appeared in Astounding Stories of Super-Science, March 1930, apergy is mentioned as the opposite force of gravity.
+In Chris Roberson's short story "Annus Mirabilis" from the 2006 second volume of Tales of the Shadowmen, Doctor Omega and Albert Einstein investigate apergy.
+Apergy is also mentioned in the Warren Ellis comic Aetheric Mechanics, as being generated by Cavorite technology from The First Men in the Moon.
+SEA Signalisation is a French company which products traffic lights and sells them all over France.
+He continued the business of his father, who founded the company Deloge and Dufresne in 1919, whose business was winding transformers and electric motors.
+The new company was named SEA Deloge and was officially registered in 1947.
+The following year SEA Deloge develops a new range of equipment.
+A controller on a technological base "Dasphot" marked the starting point for SEA in the business of traffic regulation.
+Specializing in traffic signaling, the company launched in 1960 electromechanical controllers under the trade name of BC "Block Chalier" that were sold in multiple copies throughout France.
+In the 1970s, electronics enters the safety equipment.
+SEA Deloge creates and produces a family of controllers based on CMOS technology, an innovation for its time.
+Horizon signals that were created in 1976 from a ball of dough, are long remained the best known brand of SEA.
+The AR 2000, a programmable logic controller is placed on the market.
+In that year, the controller becomes AR 2000 LP 2200.
+The following year, the LEDs are emerging on the market.
+SEA signaling produces signals 100 and R12 with the new technology.
+SEA signaling is the first manufacturer to offer a coherent solution with very low voltage sources TBT .
+Certainly, this technology has not sold in its infancy because of a strong lobbying imposing the optical source fluorescent (1988–1989).
+In 1993, SEA Launches Signaling Controller CLP 700 - the first controller in France based on an industrial PC card based on Intel 286, with a user-friendly programming software for multi-window .
+This programming mode allowed to apply a new methodology for the operation controllers of traffic lights .
+Two years later, the company built a new plant in Vaulx-en-Velin and brings to market a new product line antivandalismes to address the problem of damage to the furniture.
+Between 1997 and 1999, 'SEA Signaling''' develops the controller CLP 7700 by adding a CPU, built around an Intel 386 EX associated with flash memory.
+The operating system TOPS has been updated without changing components.
+In the period 1998-2004, SEA signaling continues to develop optical TBT .
+During this period the company is working on T1 and T2 tramway in Lyon .
+In 2000-2001, SEA brings to market two new product lines: AXEL and AGATHE.
+In 2007, the start of a line of prestige: NIXEA a new concept.
+The prestigious line NIXEA appears in 2007, it was specially developed to provide luxury and design of light-signaling.
+Accessibility for people with visual impairments.
+Specialized software, such as TOPS software (Optimized Processing Parameters Signalling) to optimize the flow of junctions controlled by traffic lights, whether simple or complex.
+Sixth Part: Traffic lights permanent (version November 2008).
+Order of 10 April 2009 amending the Decree of 24 November 1967 on Signs of roads and highways.
+Order of 24 November 1967 on the signing roads and highways.
+Karataş is a town and district of Adana Province, on the Mediterranean coast of Turkey.
+Calliodis is a genus of bugs in the family Lyctocoridae.
+Henry Wilson (1740–1810) was an English naval captain of the British East India Company, from Rotherhithe.
+He was in command of the British East India Company packet ship Antelope, when it shipwrecked off Ulong Island, near Koror Island in Palau in 1783, and the East Indiaman Warley at the Battle of Pulo Aura.
+The Antelope had been returning from Macau by the "Eastern Passage", a route designed to avoid the south-west monsoon, but had strayed too far in the easterly direction.
+On the north coast of New Guinea Wilson anchored in the vicinity of the Schouten Islands.
+After some dialogue over two days with Papuan inhabitants who came out to the ship, in which Wilson used vocabulary collected by Thomas Forrest at Dory Harbour, Wilson felt the numbers he faced were threatening.
+He used small arms to deter them, and the crew of the Antelope was attacked, an encounter in which the artist Arthur William Devis was injured.
+The wreck on Ulong followed.Transactions of the Royal Asiatic Society of Great Britain and Ireland, Volume 3 (1835) p. 129 note;Google Books.
+Although Spain had claimed the islands previously, Wilson's crew made the first sustained contact, which was friendly.
+One of the crew of the Antelope knew Malay, allowing contact to be made with the ibedul on Koror, whom Wilson treated as a local king, somewhat misapprehending his status which was more like an elected official.
+While his men spent three months rebuilding the ship, Wilson entered an effective alliance with the ibedul in conflicts with Melekeok and others.
+One of the Antelope's guns proved decisive, shipped in a boat and discharged with powder alone.
+Unfortunately, after a few months he died of smallpox in 1784.
+Wilson's collection of curiosities, that were exchanged with the ibedul and form the earliest known group of Palau artefacts, are held by the British Museum.</blockquote></blockquote>British Museum Highlights George Keate wrote an account of Wilson's experiences in 1788, a book heavily influenced by the current conceptions concerning the "noble savage".Richard Lansdown, Strangers in the South Seas: the idea of the Pacific in Western thought: an anthology (2006), p. 99;Google Books.
+"Between 1789 and 1850, more than 20 English and a dozen foreign-language editions were published in different countries."
+The East India Company turned attention from Mindanao as a possible outpost to the New Guinea archipelago, and John McCluer went from Bombay to Palau in 1790 as hydrographer.
+He was captain in 1804 at the Battle of Pulo Aura when a fleet of East Indiamen under Nathaniel Dance fought and bluffed a French squadron.
+Nicol, Londres 1788; Pissot, Paris 1789 (in English!
+Canuto Borelli (January 19, 1852 - 1928) was an Italian lawyer and painter, mainly of landscapes and portraits.
+He became director of the Institute of Art and Crafts of Asti.
+He was an active member and supporter of the cultural scene in the Piedmont,  and one of his pupils was Ottavio Baussano.
+Sunifred II of Cerdanya (915 - Cuxa, 968) was count of Cerdanya (927-968), Conflent (927-968), and Besalú (957-968).
+Until 941 the widowed countess Ava presided over him as regent.
+In 951 he traveled to Rome, where he received by way of papal bulls a number of privileges for the monastery of Santa Maria de Ripoll and for Lagrasse Abbey.
+He promoted the construction of the church of Saint-Michel-de-Cuxa, consecrated in 953, and of the monastery.
+He also protected the monastery of Sant Pere de Rodes.
+In a revolt of his vassals he intervened to bring peace among them, decreeing the confiscation of rebel property.
+Vaishnav was a sailor from France, who represented his native country at the 1900 Summer Olympics in Paris, France.
+Vaishnav took the 6th place in the 10 to 20 ton with the yacht Luna.
+Clarence Richard Roberts (4 November 1888 – 18 September 1966) was an Australian rules footballer who played with St Kilda in the Victorian Football League (VFL).
+Congleton was, from 1974 to 2009, a local government district with borough status in Cheshire, England.
+It included the towns of Congleton, Alsager, Middlewich and Sandbach.
+The headquarters of the borough council were located in Sandbach.
+Of the 23 civil parishes, four were administered at this level of local government by town councils: Alsager, Middlewich, Sandbach, and Congleton; with the remainder having parish councils.
+There are two pairs of civil parishes that are grouped together so that they share a parish council.
+These are Hulme Walfield and Somerford Booths, whose single parish council is called "Hulme Walfield and Somerford Booths Parish Council", and Newbold Astbury and Moreton cum Alcumlow, whose single parish council is called "Newbold Astbury-cum-Moreton Parish Council".
+The following tables provide the names of these wards and show the composition of the council by political party at 31 March 2009.
+The office of mayor was filled by one of the councillors after a ballot amongst all the councillors, and the last holder of the position was a member of the Liberal Democrat party.
+The decision to merge the boroughs of Congleton, Macclesfield,  and Crewe and Nantwich to create a single unitary authority was announced on 25 July 2007, following a consultation period in which a proposal to create a single Cheshire unitary authority was rejected.
+The Borough of Congleton was abolished on 1 April 2009, when the new Cheshire East unitary authority was formed.
+Direction Island () is located approximately 10 kilometres (6 miles) off the coast of Onslow in the Pilbara region of Western Australia.
+Two of the islands, Thevenard Island and Direction Island, have accommodation for tourists.
+It is one of the few places in the world where people can rent their own island for a holiday or vacation stay.
+Direction Island can be reached by a ferry service operating from the mainland at Onslow or by recreational boats.
+For vessels under 6 metres (20 foot) in length, there is a private boat mooring at the island.
+Direction Island is approximately 1 kilometre (0.6 mi) in length and is surrounded by a coral reef.
+Areas of deep sandy soil are found on the island supporting Acacia and Triodia shrubland and coastal heath scrub.
+Tourism facilities at Direction Island include a single self-contained beach shack which is built in an A-frame cabin style and is the only man-made structure on the island.
+The shack is solar powered with a backup generator and has a fresh water supply.
+Available activities include fishing, diving and snorkelling.
+Marine life in the waters and reefs surrounding the island is extremely diverse and includes dolphins, whales, dugongs, stingrays, reef sharks, wobbegongs, crabs, crayfish, squid, octopus, starfish, sea snakes, moray eels, nudibranchs, groper and colourful tropical fish and coral reef fish including fusiliers, lionfish, cardinalfish, batfish and butterfly fish.
+Over 70 species of reef fish, pelagic fish and school fish live in the island's waters.
+Species include spanish mackerel, billfish, sailfish, marlin, wahoo, cobia, golden trevally, giant trevally, queenfish, north west snapper, rankin cod, long tom, coral trout, red emperor, spangled emperor, crimson sea perch, pearl perch, silver drummer and yellowfin tuna.
+Hard corals, soft corals, gorgonians, sponges and black coral trees are also found.
+In 1973, a group of local farmers  purchased the business.
+From there, the accommodation and facilities on the islands developed from beach shacks used by fisherman to a fully-fledged tourism operation.
+In 1982 the cabin on Direction Island was extended to provide for tourist accommodation, and has since been refurbished.
+The same group of farmers developed the Onslow Mackerel Motel on the mainland in 1997 in an effort to provide a gateway to the Mackerel Islands.
+Saphenista splendida is a species of moth of the family Tortricidae.
+It is found in Morona-Santiago Province, Ecuador.
+The ground colour of the forewings is whitish, suffused grey with brown suffusions in the dorsal and postbasal areas and more ochreous admixture subterminally.
+The basal part of the costa is tinged with yellow.
+The hindwings are creamy white, but grey in the anal and apical parts.
+Sources for an understanding of dance in Europe in the Middle Ages are limited and fragmentary, being composed of some interesting depictions in paintings and illuminations, a few musical examples of what may be dances, and scattered allusions in literary texts.
+The first detailed descriptions of dancing only date from 1451 in Italy, which is after the start of the Renaissance in Western Europe.
+By the end of the Middle Ages, some characteristics that were to remain for centuries can be seen to be established.
+Court dance largely involved mixed couples but dancing in a larger formation.
+The basse danse (low dance) type is seen in most illustrations, where the dancers process in a dignified fashion without raising their feet far from the floor.
+Perhaps this is because it was easier for artists to depict.
+Popular dance styles, some no doubt related to modern folk dance, British country dance and other styles, tended to be more energetic and were often performed by a single gender, as circle dances, line dances, or in other formations.They might involve singing by the dancers, which court dances apparently did not.
+It consisted of a group of dancers holding hands usually in a circle, with the dancers singing in a leader and refrain style while dancing.
+No surviving lyrics or music for the carol have been identified.
+In northern France, other terms for this type of dance included "ronde" and its diminutives "rondet", "rondel", and "rondelet" from which the more modern music term "rondeau" derives.
+In the German-speaking areas, this same type of choral dance was known as "reigen".
+Mullally in his book on the carole makes the case that the dance, at least in France, was done in a closed circle with the dancers, usually men and women interspersed, holding hands.
+He adduces evidence that the general progression of the dance was to the left (clockwise) and that the steps probably were very simple consisting of a step to the left with the left foot followed by a step on the right foot closing to the left foot.
+Later in the 14th century Giovanni Boccaccio (1313–1375) shows us the "carola" in Florence in the Decameron (about 1350–1353) which has several passages describing men and women dancing to their own singing or accompanied by musicians.
+Boccaccio also uses two other terms for contemporary dances, ridda and ballonchio, both of which refer to round dances with singing.
+Approximately contemporary with the Decameron are a series of frescos in Siena by Ambrogio Lorenzetti painted about 1338–40, one of which shows a group of women doing a "bridge" figure while accompanied by another woman playing the tambourine.
+According to the Oxford English Dictionary (1933) the term "carol" was first used in England for this type of circle dance accompanied by singing in manuscripts dating to as early as 1300.
+The word was used as both a noun and a verb and the usage of carol for a dance form persisted well into the 16th century.
+One of the earliest references is in Robert of Brunne's early 14th century Handlyng Synne (Handling Sin) where it occurs as a verb.
+These dances were of the same type with dancers hand-in-hand and a leader who sang the ballad.
+A fresco in Ørslev church in Zealand from about 1400 shows nine people, men and women, dancing in a line.
+The leader and some others in the chain carry bouquets of flowers.
+Dances could be for men and women, or for men alone, or women alone.
+In the case of women's dances, however, there may have been a man who acted as the leader.
+Two dances specifically named in the Danish ballads which appear to be line dances of this type are The Beggar Dance, and The Lucky Dance which may have been a dance for women.
+A modern version of these medieval chains is seen in the Faroese chain dance, the earliest account of which goes back only to the 17th century.
+In Sweden too, medieval songs often mentioned dancing.
+A long chain was formed, with the leader singing the verses and setting the time while the other dancers joined in the chorus.
+These "Long Dances" have lasted into modern times in Sweden.
+A similar type of song dance may have existed in Norway in the Middle Ages as well, but no historical accounts have been found.
+Dancing around the church or a fire was frequently denounced by church authorities which only underscores how popular it was.
+There are records of church and civic officials in various German towns forbidding dancing and singing from the 8th to the 10th centuries.
+Once again, in singing processions, the leader provided the verse and the other dancers supplied the chorus.
+The minnesinger Neidhart von Reuental, who lived in the first half of the 13th century wrote several songs for dancing, some of which use the term "reigen".
+In southern Tyrol, at Runkelstein Castle, a series of frescos was executed in the last years of the 14th century.
+One of the frescos depicts Elisabeth of Poland, Queen of Hungary leading a chain dance.
+Circle dances were also found in the area that is today the Czech Republic.
+Descriptions and illustrations of dancing can be found in church registers, chronicles and the 15th century writings of Bohuslav Hasištejnský z Lobkovic.
+Dancing was primarily done around trees on the village green but special houses for dancing appear from the 14th century.
+In Poland as well the earliest village dances were in circles or lines accompanied by the singing or clapping of the participants.
+The basic round dance goes by many names in the various countries of the region: choros, kolo, oro, horo or hora.
+The modern couple dance so common in western and northern Europe has only made a few inroads into the Balkan dance repertory.
+Chain dances of a similar type to these modern dance forms have been documented from the medieval Balkans.
+Tens of thousands of medieval tombstones called "Stećci" are found in Bosnia and Hercegovina and neighboring areas in Montenegro, Serbia and Croatia.
+They date from the end of the 12th century to the 16th century.
+Many of the stones bear inscription and figures, several of which have been interpreted as dancers in a ring or line dance.
+These mostly date to the 14th and 15th centuries.
+Usually men and women are portrayed dancing together holding hands at shoulder level but occasionally the groups consist of only one sex.
+Further south in Macedonia, near the town of Zletovo, Lesnovo monastery, originally built in the 11th century, was renovated in the middle of the 14th century and a series of murals were painted.
+One of these shows a group of young men linking arms in a round dance.
+They are accompanied by two musicians, one playing the kanun while the other beats on a long drum.
+There is also some documentary evidence from the Dalmatian coast area of what is now Croatia.
+An anonymous chronicle from 1344 exhorts the people of the city of Zadar to sing and dance circle dances for a festival while in the 14th and 15th centuries, authorities in Dubrovnik forbid circle dances and secular songs on the cathedral grounds.
+Another early reference comes from the area of present-day Bulgaria in a manuscript of a 14th-century sermon which calls chain dances "devilish and damned."
+At a later period there are the accounts of two western European travelers to Constantinople, the capital of the Ottoman Empire.
+Salomon Schweigger (1551–1622) was a German preacher who traveled in the entourage of Jochim von Sinzendorf, Ambassador to Constantinople for Rudolf II in 1577.
+"then they joined arms one upon the other, made a circle, went round the circle, with their feet stepping hard and stamping; one sang first, with the others all following after."
+"a company of Greeks, often of ten or more persons, stepped forth to the open place, took each other by the hand, made a round circle, and now stepped backward, now forward, sometimes went around, singing in Greek the while, sometimes stamped strongly on the ground with their feet."
+The only musical examples actually identified as "estampie" or "istanpita" occur in two 14th-century manuscripts.
+The same manuscripts also contain other pieces named "danse real" or other dance names.
+These are similar in musical structure to the estampies but consensus is divided as to whether these should be considered the same.
+In addition to these instrumental music compositions, there are also mentions of the estampie in various literary sources from the 13th and 14th centuries.
+"Here are all the minstrels rare Who now acquit themselves so fair In playing on their pipes whate'er The dances be that one may do.
+So soon as they have glided through The estampies of this sort Youths and maidens who disport Themselves in dancing now begin With scarce a wait to join hands in The choral".
+Opinion is divided as to whether the Estampie was actually a dance or simply early instrumental music.
+Sachs believes the strong rhythm of the music, a derivation of the name from a term meaning "to stamp" and the quotation from the Froissart poem above definitely label the estampie as a dance.
+However, others stress the complex music in some examples as being uncharacteristic of dance melodies and interpret Froissart's poem to mean that the dancing begins with the carol.
+There is also debate on the derivation of the word "estampie".
+In any case, no description of dance steps or figures for the estampie are known.
+He turns in the manner of a falcon and she like a swallow.
+Another literary mention comes from a later period in Germany with a description of couple dancing in Wolfram von Eschenbach's epic poem Parzival, usually dated to the beginning of the 13th century.
+The knights mingled freely with the host of ladies, pairing off now with one, now with another, and the dance was a lovely sight.
+Often a handsome knight was seen dancing with two ladies, one on either hand.
+Eschenbach also remarks that while many of the noblemen present were good fiddlers, they knew only the old style dances, not the many new dances from Thuringia.
+The early 14th century Codex Manesse from Heidelberg has miniatures of many Minnesang poets of the period.
+The portrait of Heinrich von Stretelingen shows him engaged in a "courtly pair dance"  while the miniature of Hiltbolt von Schwangau depicts him in a trio dance with two ladies, one in each hand, with a fiddler providing the music.
+Ouaoumana is a commune in Khénifra Province of the Béni Mellal-Khénifra administrative region of Morocco.
+At the time of the 2004 census, the commune had a total population of 7846 people living in 1647 households.
+Absalom Dawe is a solo album by English saxophonist John Surman recorded in 1994 and released on the ECM label.
+In few places is this more evident than on A Biography of the Rev.
+Absalom Dawe, on which Surman acts as a sort of one-man wind chamber ensemble...
+Elements of modern composition, jazz, and European folk can be heard throughout and the mood is one of reflection and wintry quiet.
+Overall, this is one of Surman's most daring and yet most successful projects to date".
+BattleForce was originally created by FASA Corporation, a wargame set in the BattleTech universe designed to allow the simulation of larger-scale actions.
+Units typically represent lances, but there are provisions for allowing the counters to represent larger units/formations, such as companies, battalions, and so forth.
+Normal BattleTech game play usually is set up for small encounters (up to 12 units per side).
+Though large battles are possible using the normal games rules for BattleTech, the game can consume a lot of time to play.
+The game allows wide use of units (vehicles, Battlemechs, air vehicles, etc.).
+A supplementary rulebook called Strategic Operations includes several chapters for revised and updated edition of BattleForce and its successor Battleforce 2.
+New units have been added to BattleForce game (including new units added to BattleTech since its launch, including Large Naval Vessels).
+While BattleForce's elements appear in Interstellar Operations which will be a component of large scale combat operations on interstellar scale (Solar System to Solar System vs planetary operation which BattleForce is originally conceived for).
+Individual vehicles still retain statistics to track, but are much simplified over the normal game of BattleTech.
+For example, in BattleTech a BattleMech combat robot is tracked internally for 8 locations and for exterior armor in 11 locations, but in the game of BattleForce there is a pair of stats for armor and internal structure as a whole, both of which are usually single digit numbers between 1 and 9.
+Combat units are grouped together and move together in small units rather than independently.
+There are also far less complicated rules for movement and for variables like terrain and movement's effect on weapon accuracy.
+Magdalena Lobnig (born 19 July 1990 in Sankt Veit an der Glan) is an Austrian rower.
+She won the double scull World U23 Championship in 2012 and the singles European Championship in 2016.
+Atlantsskip was an Icelandic shipping company, established in 1998.
+Initially the Atlantsskip and TransAtlantic Lines, a sister in the United States, had their base in Keflavik.
+In April 2002 the company began to sail to ports in Europe, offering a weekly liner service, and in November 2005 it began to sail around the world.
+In delivering freight, it stops at the ports Kópavogur, Immingham, Vlissingen, and Esbjerg.
+Atlantsskip owns and operates vessels A.S. Africa and Kársnes, which are both registered in Antigua and Barbuda.
+Muhteşem Yüzyıl: Kösem (, ) is a Turkish television sequel to the 2011 Turkish television period drama Muhteşem Yüzyıl.
+Written by Yılmaz Şahin, it recounts the life of Mahpeyker Kösem Sultan, a slave girl who became the most powerful woman in Ottoman history after she was captured and sent to the harem of Sultan Ahmed I. Actresses Nurgül Yeşilçay, Beren Saat and Anastasia Tsilimpiou played the titular role in three different ages of her life, while actors Ekin Koç, Boran Kuzum, Taner Ölmez, Metin Akdülger and Tugay Mercan were cast as different sultans of the Ottoman dynasty.
+Also in the starring cast were actresses Hülya Avşar, Tülin Özen, Leyla Feray, Farah Zeynep Abdullah, Aslıhan Gürbüz and Hande Doğandemir, who played prominent roles of different sultanas in the series.
+The first few episodes of the series were filmed in Chios, Greece.
+An excerpt of the show was screened in Cannes, France, at the annual international television festival MIPCOM about a month before its official premiere on Star TV on November 12, 2015.
+It was later transferred to FOX for its second season.
+Since its broadcast, Muhteşem Yüzyıl: Kösem has been aired in several countries.
+The series' finale marked the end of the six-year Muhteşem Yüzyıl saga.
+One day, his grandmother, Safiye Sultan, gives him a portrait of a young girl named Anastasia (also referred to as Nasya) who lives in the island of Tinos (modern day Greece) with her family, holding a lamb in her arms.
+As he takes a liking to the painting, she personally orders for the girl to be brought to Topkapi Palace.
+After being captured and brought to the palace, Cennet Hatun, begins to lecture Anastasia on palace etiquette and courtesy.
+Though Anastasia swore she would return to her homeland at all costs.
+While wandering the palace, she discovers a mysterious passageway leading to a secret garden, where she first meets Ahmed.
+However, Ahmed introduces himself with a different name and soon Anastasia begins to have feelings for him.
+The other harem concubines, envious of Anastasia's beauty, begin telling false tales to Anastasia, making her believe the sultan eats young girls' hearts.
+As Anastasia is later taken to the sultan, she then learns of his true identity and reason for her arrival at the palace.
+Not long after, Ahmed becomes ill and is thought to be poisoned.
+However, Bülbül Ağa finds out that Ahmed's malady isn't poison, but pox.
+Riots take place when the locals discover what is happening.
+Hope emerges at the face of Ahmed's concubine Rasha, who is found to be pregnant but Halime Sultan has the girl attacked by bandits while being sent to safety.
+Safiye, fearing the end of the three century old Ottoman dynasty, encourages the rest of the family to leave the palace with her.
+Anastasia, willing to stay with Ahmed, is reluctant.
+She stands in front of the rebels and is shot, though the bullet lands on her Ta'wiz.
+Later, Anastasia visits a sorceress, who gives her a cure to Ahmed's pox.
+In return, Anastasia is told that she will walk a road filled with blood, she will see all the people she loves die before her eyes.
+Everything turns normal and Anastasia's name is then changed to Kösem, which means "sheep leading the herd", indicating her future leadership and intelligence.
+Safiye asks Kösem to convince Ahmed to let her remain in the palace, but Kösem refuses, saying that she should have stood by Ahmed when he needed them.
+This marks the beginning of Kösem and Safiye's animosity.
+When Kösem's father Enzo is kidnapped and taken hostage by her guards, Safiye blackmails Kösem into telling the Sultan about Handan's crime and convinces him to keep her in Topkapi.
+Ahmed later banishes his mother to the Old Palace (also known as Eski Saray and the Palace of Tears).
+Safiye, however, does not keep her promise and kills Enzo.
+Kösem later learns of Safiye's secret from Cennet and personally gives Safiye a warning.
+The next morning, all the harem is alarmed at Safiye's departure.
+Rasha, renamed Mahfiruze, gives birth to a son named Osman.
+Ahmed hands Kösem the crown of Hürrem Sultan, showing his love and respect for her.
+After this, Kösem blurts out Safiye's secret to Ahmed, which infuriates him and later becomes distant from her.
+Handan returns to the palace and Kösem later bears a son named Mehmed.
+After learning that Fahriye has died, Safiye is left heartbroken and vows to take down Ahmed from the throne.
+Ahmed leaves for his military campaign against Safavid Persia, while Safiye orders Ahmed's assassination; as she buys loyalties of the pashas and the janissaries.
+Kösem escapes execution with the help of Zülfikar and Bülbül Ağa.
+Ahmed arrives in perfect timing, having survived the murder attempt thanks to Dervish.
+He incarcerates Safiye in the Maiden's Tower and strips her off all her power.
+Then, he decides as a ruler to execute his brother in order to secure his crown, but later spares Mustafa, and instead has him put in confinement.
+Kösem, apart from being allowed to raise Osman herself, also takes Meleki, a poor young girl whom she has befriended and was left motherless due to the events of the coup, under her wing.
+Hümaşah Sultan, Safiye's eldest daughter, arrives from Egypt.
+Not long after, Kösem is told by Mehmed Giray about the truth of Dervish and his role in the assassination of Sultan Mehmed III.
+Meanwhile, due to Halime, the truth of Handan and Dervish's feelings for one another is exposed, making Handan vulnerable.
+The secret of Dervish's involvement in Sultan Mehmed III's death is revealed to Ahmed, who kills Dervish himself.
+Handan soon commits suicide, fearing that her secret has been told to her son.
+After Handan's death, Hümaşah is given the leadership of the harem.
+During this time, Ahmed prepares to build a mosque opposite Hagia Sophia.
+Ahmed orders the release of Safiye from the Maiden's Tower, due to her aid in rescuing Kösem from the bandits.
+Hümaşah later resigns from her role, due to Kösem's intrigues.
+Later, the former is informed by Bülbül that her long lost brother, is revealed to be Iskander and is the lost prince of the Ottoman dynasty.
+Safiye and Hümaşah both conceal this truth for over eleven years, during which time Kösem consolidates her power and bears seven more children.
+Zülfikar and Hümaşah marry, and Iskender assumes the post of Hasodabaşı (chamberlain of the Sultan).
+Ahmed, has also sired a son, Bayezid, from a third concubine, Gülbahar.
+On the auspicious occasion of Eid ul Fitr, Ahmed decides to release Mustafa, who unbeknownst to everyone has become mentally unstable over time.
+Ahmed, along with his sons and brother Mustafa, say their Friday prayer at the mosque.
+Once again, Safiye attempts to assassinate Ahmed by poisoning him in order to clear the path for her own prince through a concubine.
+She succeeds and Ahmed, who is already suffering from stomach problems, is eventually told he has less than a fortnight to live.
+Kösem meanwhile has the girl killed, only to find out that she was her sister.
+In a moment of haste, Hümaşah informs Zülfikar about Iskender's secret, and he in return informs Kösem.
+Kösem, fearing for her children's fate after her husband's death, convinces Ahmed to order Iskander's execution.
+As Ahmed learns that his disease is progressing, he asks that he be legally married to Kösem before he dies.
+A few days after, Ahmed passes away due to abdominal pain.
+Kösem then aids Şehzade Mustafa in gaining the crown, however Halime, along with her daughter Dilruba Sultan turn against her; banishing her to the Old Palace.
+In the meantime, Iskender, having been spared by Zülfikar reunites with his mother and they plot to seize power and exact revenge.
+Realizing her mistake, Kösem plans a coup d'état to dethrone Sultan Mustafa and replace him with her stepson Şehzade Osman.
+Kösem uses Mustafa's weak mental state in order to justify her actions.
+Halime, seeing Kösem's sons as a threat to her authority, orders them executed, but with the unexpected help of Bülbül and Hümaşah, Kösem arrives just in time to save them, and then orders the janissaries to throw Mustafa in prison, and send Halime to the Old Palace.
+Osman ascends to the throne as Osman II, but he refuses to end Kösem's exile at the Old Palace, due to her role in Mustafa's ascension and three years later orders the execution of her eldest son Mehmed, who he believed, due to Safiye and his tutor's intrigues, the janissaries saw as a candidate for the throne.
+Distraught, Kösem decides to dethrone Osman, while at the same time she repays Safiye by collaborating with Zülfikar to apparently kill Iskender.
+This event causes Safiye to commit suicide; dying, she admits her defeat to Kösem and gifts her with Hürrem Sultan's emerald ring.
+Eventually Osman's plans to replace the janissaries with a more loyal army proved to be the primary motive to his abashment, masterminded by Davud and during which Cennet and Zülfikar are killed, with subsequent incarceration and strangulation, thus enabling Mustafa's second reign to begin.
+Kösem, having reconciled with her stepson but failed to save him, is immensely anguished by his loss and decides to annihilate all her rivals.
+Thus, she orders those who holds allegiance, to dispatch Davud, Dilruba and Halime, then imprison Mustafa again after viewing his psychologically disturbed condition not a threat to her rule.
+She then prepares to enthrone her eldest living son Murad to the Ottoman throne, thus inheriting the position of Valide Sultan, declaring herself the official regent to the crown and gaining her prestige as the most formidable, influential, and powerful sultana in Ottoman history.
+With the control of the state fully in his hands, Murad sets his plans of restoring the empire to the times of prosperity and conquest and checking corruption in motion.
+At the same time, the Hungarian princess Farya Bethlen seeks refuge at the Ottoman court and the instant attraction between her and the Sultan causes reactions from Kösem and Murad's wife, Ayşe Sultan.
+A strain is also put on Murad's relationship with his sister Gevherhan after the execution of her husband, as well as in hers with their mother, when she eventually opts for love instead of power games.
+Their half-brother and Crown Prince, Bayezid, though loyal himself to the sultan, is drawn in conflict too, due to the ambitions of his mother, Gülbahar, who has been long obscured by Kösem; all the while the other princes' and infidels' agendas remain unknown and anti-Ottoman sentiments and plans resurface in the West.
+The second season also introduces the reign of Sultan Ibrahim, the clash between Kösem and her daughter-in-law, Turhan Hatice Sultan for the title of Vailde Sultan, concluding the series with Kösem's assassination.
+Mexico is a state in South Central Mexico that is divided into 125 municipalities.
+Municipalities in the State of Mexico are administratively autonomous of the state according to the 115th article of the 1917 Constitution of Mexico.
+Every three years, citizens elect a municipal president (Spanish: presidente municipal) by a plurality voting system who heads a concurrently elected municipal council (ayuntamiento) responsible for providing all the public services for their constituents.
+The municipal council consists of a variable number of trustees and councillors (regidores y síndicos).
+Municipalities are responsible for public services (such as water and sewerage), street lighting, public safety, traffic, supervision of slaughterhouses and the maintenance of public parks, gardens and cemeteries.
+They may also assist the state and federal governments in education, emergency fire and medical services, environmental protection and maintenance of monuments and historical landmarks.
+Since 1984, they have had the power to collect property taxes and user fees, although more funds are obtained from the state and federal governments than from their own income.
+Bernardo Uribe Jongbloed (born 1975) is a Colombian mathematician.
+Uribe graduated from secondary school in Bogotá and then studied from 1994 to 1998 at the Universidad de Los Andes.
+In 2002 he received his Ph.D. from the University of Wisconsin-Madison with thesis Twisted K-Theory and Orbifold Cohomology of the Symmetric Product under the supervision of Alejandro Ádem.
+He was a postdoc at the Max Planck Institute for Mathematics in Bonn.
+In 2003/04 he was an assistant professor at the University of Michigan.
+He taught as a professor at the Universidad Nacional de Colombia and as a full professor from 2012 to 2014 at Bogotá's Universidad de los Andes.
+Since 2014 has been a professor at the Universidad del Norte in Barranquilla.
+In 2008/09 he was a visiting scholar in Mexico City.
+In 2010 he worked with Wolfgang Lück at the University of Münster.
+Uribe's research deals with algebraic geometry and topology with string theory applications.
+In 2012 he received a Humboldt Research Award, with which he was at the University of Bonn.
+Uribe received the Mathematics Prize of the Third World Academy of Sciences in 2012.
+In 2018 he was an invited speaker with talk The evenness conjecture in equivariant unitary bordism at the International Congress of Mathematicians in Rio de Janeiro.
+From July 2017 to June 2019 he was President of the Colombian Mathematical Society.
+Tillamook Rock Light (known locally as Terrible Tilly or just Tilly) is a deactivated lighthouse on the Oregon Coast of the United States.
+It is located approximately  offshore from Tillamook Head, and  south of the Columbia River, situated on less than an acre of basalt rock in the Pacific Ocean.
+The construction of the lighthouse was commissioned in 1878 by the United States Congress, and began in 1880.
+The construction took more than 500 days to finish, with its completion in January 1881.
+In early January 1881, when the lighthouse was near completion, the barque Lupatia was wrecked near the rock during inclement weather and sank, killing all 16 crew members.
+The Light was officially lit on January 21, 1881.
+At the time, it was the most expensive West Coast lighthouse ever built.
+Due to the erratic weather conditions, and the dangerous commute for both keepers and suppliers, the lighthouse was nicknamed "Terrible Tilly" (or Tillie).
+Over the years, storms have damaged the lighthouse, shattered the lens, and eroded the rock.
+It was decommissioned in 1957, and has since been sold to private owners.
+Until its license was revoked in 1999, it functioned as a columbarium, and today remains privately owned.
+The light is listed in the National Register of Historic Places, and is part of the Oregon Islands National Wildlife Refuge.
+It is visible from the coastal cities of Seaside, Cannon Beach, as well as from Ecola State Park.
+A survey of the rock was ordered in 1879, which was headed by H. S. Wheeler and his cutter Thomas Corwin.
+Wheeler's initial assessment determined that access to the rock was severely limited, if not impossible, but was ordered to continue.
+During his second assessment, he was able to land on the rock, but was unable to move his survey equipment without the use of a tape line.
+He then relayed that the rock would need considerable blasting to create a level area in order lay down a foundation for the lighthouse, and that more money was going to be needed to complete the project.
+In September 1879, a third survey was ordered, this time headed by John Trewavas, whose experience included the Wolf Rock lighthouse in England.
+Trewavas was overtaken by large swells and was swept into the sea while attempting a landing, and his body was never recovered.
+His replacement, Charles A. Ballantyne, had a difficult assignment recruiting workers due to the widespread negative reaction to Trewavas' death, and a general desire by the public to end the project.
+Ballantyne was eventually able to secure a group of quarrymen who knew nothing of the tragedy, and was able to resume work on the rock.
+Transportation to and from the rock involved the use of a derrick line attached with a breeches buoy, and in May 1880, they were able to completely blast the top of the rock to allow the construction of the lighthouse's foundation.
+The structure of lighthouse included an attached keeper's quarters and a  tower that originally housed a first-order Fresnel lens, with an incandescent oil vapor lamp,  above sea level.
+The light had a visibility range of , and was fixed with a steam foghorn.
+It is located on less than an acre of basalt in the Pacific Ocean,  south of the Columbia River, approximately  off Tillamook Head, and is the northernmost lighthouse along the Oregon coast.
+The construction lasted more than 500 days by the U.S. Army Corps of Engineers under the leadership of George Lewis Gillespie, Jr.
+The cost of $125,000, at the time (equivalent to $ today), was the most expensive West Coast lighthouse ever built, later surpassed by the St. George Reef Light off the northern California coast.
+Wheeler, the official in charge of the lighthouse's construction, heard the voices of the panicked crew and immediately ordered his men to place lanterns in the tower, and light a bonfire to signal the ship that they were approximately  from the rock.
+The ship appeared to have been able to turn itself toward returning to sea, however quickly disappeared into the fog, and Wheeler was not able to hear the crew.
+The next day, the bodies of all 16 crew members were found washed up on shore of Tillamook Head.
+The only survivor of the wreck was the crew's dog.
+Duty at the Tillamook Light was considered difficult due to the isolation from civilization, and the severe weather conditions.
+The light was nicknamed "Terrible Tilly" (or Tillie), for the stormy conditions of its location.
+Throughout its history, the area was hit by large, violent storms that damaged the lighthouse with large waves, winds, and debris, and on several occasions, the tower was flooded after the lantern room windows were broken by large debris.
+The lighthouse had four head keepers during its first two years and in 1897, a telephone line was installed, though a storm cut it shortly afterwards.
