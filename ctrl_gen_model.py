@@ -120,8 +120,8 @@ class CtrlGenModel(object):
             labels=labels_source, preds=gdy_preds)
 
         # Aggregates losses
-        loss_g = loss_g_ae + lambda_g * loss_g_clas
-        loss_d = loss_d_clas
+        loss_g = loss_g_ae - lambda_g * loss_g_clas
+        loss_d = loss_d_clas + loss_g_clas
 
         # Creates optimizers
         g_vars = collect_trainable_variables(
@@ -130,8 +130,8 @@ class CtrlGenModel(object):
 
         train_op_g = get_train_op(
             loss_g, g_vars, hparams=self._hparams.opt)
-        train_op_g_ae = get_train_op(
-            loss_g_ae, g_vars, hparams=self._hparams.opt)
+        # train_op_g_ae = get_train_op(
+        #     loss_g_ae, g_vars, hparams=self._hparams.opt)
         train_op_d = get_train_op(
             loss_d, d_vars, hparams=self._hparams.opt)
 
@@ -149,7 +149,7 @@ class CtrlGenModel(object):
         }
         self.train_ops = {
             "train_op_g": train_op_g,
-            "train_op_g_ae": train_op_g_ae,
+            # "train_op_g_ae": train_op_g_ae,
             "train_op_d": train_op_d
         }
         self.samples = {

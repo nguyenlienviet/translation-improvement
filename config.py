@@ -6,7 +6,7 @@
 import copy
 
 # Total number of training epochs (including pre-train and full-train)
-max_nepochs = 12
+max_nepochs = 30
 pretrain_nepochs = 10  # Number of pre-train epochs (training as autoencoder)
 display = 500  # Display the training results every N training steps.
 # Display the dev results every N training steps (set to a
@@ -17,18 +17,18 @@ sample_path = './samples'
 checkpoint_path = './checkpoints'
 restore = ''   # Model snapshot to restore from
 
-lambda_g = 0.1  # Weight of the classification loss
+lambda_g = .1  # Weight of the classification loss
 gamma_decay = 0.5  # Gumbel-softmax temperature anneal rate
 
 train_data = {
     'batch_size': 64,
     'source_dataset': {
-        "files": '../temp.txt',
-        'vocab_file': '../vocab.txt'
+        "files": 'wiki_vitranslated_sentences.txt',
+        'vocab_file': 'vocab.txt'
     },
     'target_dataset': {
-        "files": '../temp2.txt',
-        'vocab_file': '../vocab2.txt'
+        "files": 'wiki_good_sentences.txt',
+        'vocab_file': 'vocab.txt'
     }
 }
 
@@ -71,8 +71,8 @@ model = {
             },
             'attention_layer_size': 700,
         },
-        'max_decoding_length_train': 100,
-        'max_decoding_length_infer': 100,
+        'max_decoding_length_train': 150,
+        'max_decoding_length_infer': 150,
     },
     'classifier': {
         'kernel_size': [3, 4, 5],

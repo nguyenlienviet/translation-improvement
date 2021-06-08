@@ -45,6 +45,7 @@ FLAGS = flags.FLAGS
 
 config = importlib.import_module(FLAGS.config)
 
+os.environ['CUBA_VISIBLE_DEVICES'] = '2'
 
 def _main(_):
     # Data
@@ -67,42 +68,47 @@ def _main(_):
     lambda_g = tf.placeholder(dtype=tf.float32, shape=[], name='lambda_g')
     model = CtrlGenModel(batch, vocab, gamma, lambda_g, config.model)
 
-    def _train_epoch(sess, gamma_, lambda_g_, epoch, verbose=True):
+    def _train_epoch(sess, gamma_, lambda_g_, epoch,
+                     train_ops=('d', 'g'), verbose=True):
+        assert 'd' in train_ops or 'g' in train_ops
         avg_meters_d = tx.utils.AverageRecorder(size=10)
         avg_meters_g = tx.utils.AverageRecorder(size=10)
 
-        step = 0
+        #step = 0
         while True:
             try:
-                step += 1
-                feed_dict = {
-                    iterator.handle: iterator.get_handle(sess, 'train_d'),
-                    gamma: gamma_,
-                    lambda_g: lambda_g_
-                }
+                # step += 1
+                if 'd' in train_ops:
+                    feed_dict = {
+                        iterator.handle: iterator.get_handle(sess, 'train_d'),
+                        gamma: gamma_,
+                        lambda_g: lambda_g_
+                    }
+                    vals_d = sess.run(model.fetches_train_d, feed_dict=feed_dict)
+                    avg_meters_d.add(vals_d)
 
-                vals_d = sess.run(model.fetches_train_d, feed_dict=feed_dict)
-                avg_meters_d.add(vals_d)
+                if 'g' in train_ops:
+                    feed_dict = {
+                        iterator.handle: iterator.get_handle(sess, 'train_g'),
+                        gamma: gamma_,
+                        lambda_g: lambda_g_
+                    }
+                    vals_g = sess.run(model.fetches_train_g, feed_dict=feed_dict)
+                    avg_meters_g.add(vals_g)
 
-                feed_dict = {
-                    iterator.handle: iterator.get_handle(sess, 'train_g'),
-                    gamma: gamma_,
-                    lambda_g: lambda_g_
-                }
-                vals_g = sess.run(model.fetches_train_g, feed_dict=feed_dict)
-                avg_meters_g.add(vals_g)
+                # if verbose and (step == 1 or step % config.display == 0):
+                #     print('step: {}, {}'.format(step, avg_meters_d.to_str(4)))
+                #     print('step: {}, {}'.format(step, avg_meters_g.to_str(4)))
 
-                if verbose and (step == 1 or step % config.display == 0):
-                    print('step: {}, {}'.format(step, avg_meters_d.to_str(4)))
-                    print('step: {}, {}'.format(step, avg_meters_g.to_str(4)))
-
-                if verbose and step % config.display_eval == 0:
-                    iterator.restart_dataset(sess, 'val')
-                    _eval_epoch(sess, gamma_, lambda_g_, epoch)
+                # if verbose and step % config.display_eval == 0:
+                #     iterator.restart_dataset(sess, 'val')
+                #     _eval_epoch(sess, gamma_, lambda_g_, epoch)
 
             except tf.errors.OutOfRangeError:
-                print('epoch: {}, {}'.format(epoch, avg_meters_d.to_str(4)))
-                print('epoch: {}, {}'.format(epoch, avg_meters_g.to_str(4)))
+                if 'd' in train_ops:
+                    print('epoch: {}, {}'.format(epoch, avg_meters_d.to_str(4)))
+                if 'g' in train_ops:
+                    print('epoch: {}, {}'.format(epoch, avg_meters_g.to_str(4)))
                 break
 
     def _eval_epoch(sess, gamma_, lambda_g_, epoch, val_or_test='val'):
@@ -163,28 +169,36 @@ def _main(_):
         iterator.initialize_dataset(sess)
 
         gamma_ = 1.
-        lambda_g_ = 0.
-        for epoch in range(1, config.max_nepochs + 1):
-            if epoch > config.pretrain_nepochs:
-                # Anneals the gumbel-softmax temperature
-                gamma_ = max(0.001, gamma_ * config.gamma_decay)
-                lambda_g_ = config.lambda_g
-            print('gamma: {}, lambda_g: {}'.format(gamma_, lambda_g_))
-
+        for epoch in range(config.pretrain_nepochs):
             # Train
-            iterator.restart_dataset(sess, ['train_g', 'train_d'])
-            _train_epoch(sess, gamma_, lambda_g_, epoch)
+            iterator.restart_dataset(sess, ['train_g'])
+
+            _train_epoch(sess, gamma_, 0, epoch, ['g'])
 
             # Val
-            iterator.restart_dataset(sess, 'val')
-            _eval_epoch(sess, gamma_, lambda_g_, epoch, 'val')
+            # iterator.restart_dataset(sess, 'val')
+            # _eval_epoch(sess, gamma_, lambda_g_, epoch, 'val')
 
             saver.save(
                 sess, os.path.join(config.checkpoint_path, 'ckpt'), epoch)
 
             # Test
-            iterator.restart_dataset(sess, 'test')
-            _eval_epoch(sess, gamma_, lambda_g_, epoch, 'test')
+            # iterator.restart_dataset(sess, 'test')
+            # _eval_epoch(sess, gamma_, lambda_g_, epoch, 'test')
+        for epoch in range(config.pretrain_nepochs, config.max_nepochs):
+            # Anneals the gumbel-softmax temperature
+            gamma_ = max(0.001, gamma_ * config.gamma_decay)
+            #print('gamma: {}'.format(gamma_))
+
+            if epoch % 2 == 0:
+                iterator.restart_dataset(sess, ['train_g'])
+                _train_epoch(sess, gamma_, config.lambda_g, epoch, ['g'])
+            else:
+                iterator.restart_dataset(sess, ['train_g', 'train_d'])
+                _train_epoch(sess, gamma_, config.lambda_g, epoch, ['g', 'd'])
+
+            saver.save(
+                sess, os.path.join(config.checkpoint_path, 'ckpt'), epoch)
 
 if __name__ == '__main__':
     tf.app.run(main=_main)
