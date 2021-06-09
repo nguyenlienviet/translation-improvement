@@ -30,14 +30,14 @@ $ python main.py --config config
 # pylint: disable=invalid-name, too-many-locals, too-many-arguments, no-member
 
 import os
-os.environ['CUBA_VISIBLE_DEVICES'] = '0'
+os.environ['CUBA_VISIBLE_DEVICES'] = '2'
 
 import importlib
 import numpy as np
 import tensorflow as tf
 import texar.tf as tx
 
-from ctrl_gen_model import CtrlGenModel
+from ctrl_gen_model2 import CtrlGenModel
 
 flags = tf.flags
 
