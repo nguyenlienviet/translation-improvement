@@ -15,7 +15,7 @@ display_eval = 1e10
 
 sample_path = './samples'
 checkpoint_path = './checkpoints'
-restore = 'checkpoints/ckpt-29.data-00000-of-00001'   # Model snapshot to restore from
+restore = 'checkpoints/ckpt-29'   # Model snapshot to restore from
 
 lambda_g = .1  # Weight of the classification loss
 gamma_decay = 0.5  # Gumbel-softmax temperature anneal rate
@@ -23,14 +23,14 @@ gamma_decay = 0.5  # Gumbel-softmax temperature anneal rate
 train_data = {
     'batch_size': 64,
     'source_dataset': {
-        "files": 'wiki_vitranslated_sentences.txt',
+        "files": 'hindi_translated_base.txt',
         'vocab_file': 'vocab.txt',
-        'max_seq_length': 200,
+        #'max_seq_length': 200,
     },
     'target_dataset': {
-        "files": 'wiki_good_sentences_large.txt',
+        "files": 'hindi_english.txt',
         'vocab_file': 'vocab.txt',
-        'max_seq_length': 200,
+        #'max_seq_length': 200,
     }
 }
 
@@ -73,8 +73,8 @@ model = {
             },
             'attention_layer_size': 700,
         },
-        'max_decoding_length_train': 200,
-        'max_decoding_length_infer': 200,
+        'max_decoding_length_train': 150,
+        'max_decoding_length_infer': 150,
     },
     'classifier': {
         'kernel_size': [3, 4, 5],

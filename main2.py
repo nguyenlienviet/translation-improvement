@@ -30,7 +30,7 @@ $ python main.py --config config
 # pylint: disable=invalid-name, too-many-locals, too-many-arguments, no-member
 
 import os
-os.environ['CUBA_VISIBLE_DEVICES'] = '2'
+os.environ['CUBA_VISIBLE_DEVICES'] = '0'
 
 import importlib
 import numpy as np
@@ -77,6 +77,7 @@ def _main(_):
 
         #step = 0
         while True:
+            print("epoch step")
             try:
                 # step += 1
                 if 'd' in train_ops:
@@ -171,7 +172,8 @@ def _main(_):
 
         gamma_ = 1.
         iterator.restart_dataset(sess, 'val')
-        _eval_epoch(sess, gamma_, config.lambda_g, epoch, 'val')
+        print('eval epoch')
+        _eval_epoch(sess, gamma_, config.lambda_g, 0, 'val')
 
 if __name__ == '__main__':
     tf.app.run(main=_main)
