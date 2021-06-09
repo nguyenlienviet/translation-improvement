@@ -30,6 +30,8 @@ $ python main.py --config config
 # pylint: disable=invalid-name, too-many-locals, too-many-arguments, no-member
 
 import os
+os.environ['CUBA_VISIBLE_DEVICES'] = '2'
+
 import importlib
 import numpy as np
 import tensorflow as tf
@@ -45,7 +47,6 @@ FLAGS = flags.FLAGS
 
 config = importlib.import_module(FLAGS.config)
 
-os.environ['CUBA_VISIBLE_DEVICES'] = '2'
 
 def _main(_):
     # Data
@@ -179,6 +180,10 @@ def _main(_):
             # iterator.restart_dataset(sess, 'val')
             # _eval_epoch(sess, gamma_, lambda_g_, epoch, 'val')
 
+            if epoch % 5 == 0:
+                iterator.restart_dataset(sess, 'val')
+                _eval_epoch(sess, gamma_, config.lambda_g, epoch, 'val')
+
             saver.save(
                 sess, os.path.join(config.checkpoint_path, 'ckpt'), epoch)
 
@@ -196,6 +201,9 @@ def _main(_):
             else:
                 iterator.restart_dataset(sess, ['train_g', 'train_d'])
                 _train_epoch(sess, gamma_, config.lambda_g, epoch, ['g', 'd'])
+            if epoch % 5 == 0:
+                iterator.restart_dataset(sess, 'val')
+                _eval_epoch(sess, gamma_, config.lambda_g, epoch, 'val')
 
             saver.save(
                 sess, os.path.join(config.checkpoint_path, 'ckpt'), epoch)

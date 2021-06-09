@@ -24,11 +24,13 @@ train_data = {
     'batch_size': 64,
     'source_dataset': {
         "files": 'wiki_vitranslated_sentences.txt',
-        'vocab_file': 'vocab.txt'
+        'vocab_file': 'vocab.txt',
+        'max_seq_length': 200,
     },
     'target_dataset': {
-        "files": 'wiki_good_sentences.txt',
-        'vocab_file': 'vocab.txt'
+        "files": 'wiki_good_sentences_large.txt',
+        'vocab_file': 'vocab.txt',
+        'max_seq_length': 200,
     }
 }
 
@@ -71,8 +73,8 @@ model = {
             },
             'attention_layer_size': 700,
         },
-        'max_decoding_length_train': 150,
-        'max_decoding_length_infer': 150,
+        'max_decoding_length_train': 200,
+        'max_decoding_length_infer': 200,
     },
     'classifier': {
         'kernel_size': [3, 4, 5],
