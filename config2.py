@@ -15,7 +15,7 @@ display_eval = 1e10
 
 sample_path = './samples'
 checkpoint_path = './checkpoints'
-restore = ''   # Model snapshot to restore from
+restore = 'checkpoints/ckpt-29.data-00000-of-00001'   # Model snapshot to restore from
 
 lambda_g = .1  # Weight of the classification loss
 gamma_decay = 0.5  # Gumbel-softmax temperature anneal rate

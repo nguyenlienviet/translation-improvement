@@ -170,43 +170,8 @@ def _main(_):
         iterator.initialize_dataset(sess)
 
         gamma_ = 1.
-        for epoch in range(config.pretrain_nepochs):
-            # Train
-            iterator.restart_dataset(sess, ['train_g'])
-
-            _train_epoch(sess, gamma_, 0, epoch, ['g'])
-
-            # Val
-            # iterator.restart_dataset(sess, 'val')
-            # _eval_epoch(sess, gamma_, lambda_g_, epoch, 'val')
-
-            if epoch % 5 == 0:
-                iterator.restart_dataset(sess, 'val')
-                _eval_epoch(sess, gamma_, config.lambda_g, epoch, 'val')
-
-            saver.save(
-                sess, os.path.join(config.checkpoint_path, 'ckpt'), epoch)
-
-            # Test
-            # iterator.restart_dataset(sess, 'test')
-            # _eval_epoch(sess, gamma_, lambda_g_, epoch, 'test')
-        for epoch in range(config.pretrain_nepochs, config.max_nepochs):
-            # Anneals the gumbel-softmax temperature
-            gamma_ = max(0.001, gamma_ * config.gamma_decay)
-            #print('gamma: {}'.format(gamma_))
-
-            if epoch % 2 == 0:
-                iterator.restart_dataset(sess, ['train_g'])
-                _train_epoch(sess, gamma_, config.lambda_g, epoch, ['g'])
-            else:
-                iterator.restart_dataset(sess, ['train_g', 'train_d'])
-                _train_epoch(sess, gamma_, config.lambda_g, epoch, ['g', 'd'])
-            if epoch % 5 == 0:
-                iterator.restart_dataset(sess, 'val')
-                _eval_epoch(sess, gamma_, config.lambda_g, epoch, 'val')
-
-            saver.save(
-                sess, os.path.join(config.checkpoint_path, 'ckpt'), epoch)
+        iterator.restart_dataset(sess, 'val')
+        _eval_epoch(sess, gamma_, config.lambda_g, epoch, 'val')
 
 if __name__ == '__main__':
     tf.app.run(main=_main)
